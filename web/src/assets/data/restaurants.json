@@ -1,0 +1,5981 @@
+[
+  {
+    "id": "B0KDUA8SE3",
+    "name": "河南老家(福田店)",
+    "district": "福田",
+    "address": "安吉尔大厦3楼(八卦岭地铁站B口步行490米)",
+    "phone": "",
+    "longitude": 114.098917,
+    "latitude": 22.563972,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "河南菜"
+    ],
+    "cover": "",
+    "source_keyword": "河南菜",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0H32L6XKI",
+    "name": "豫见胡辣汤(岗厦店)",
+    "district": "福田",
+    "address": "彩田路东三坊1号楼(岗厦北地铁站10号口步行330米)",
+    "phone": "",
+    "longitude": 114.070732,
+    "latitude": 22.536734,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "胡辣汤"
+    ],
+    "cover": "",
+    "source_keyword": "河南菜",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B02F37WMMS",
+    "name": "开封又一村(景田北三街店)",
+    "district": "福田",
+    "address": "景田北三街布尾村131号(近万岗丰超市)",
+    "phone": "",
+    "longitude": 114.041494,
+    "latitude": 22.557784,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "河南菜"
+    ],
+    "cover": "",
+    "source_keyword": "河南菜",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0LACBDYRF",
+    "name": "丁记烩面(福田上沙店)",
+    "district": "福田",
+    "address": "中洲湾购物中心4号门东北70米",
+    "phone": "",
+    "longitude": 114.029539,
+    "latitude": 22.528077,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "烩面"
+    ],
+    "cover": "",
+    "source_keyword": "河南菜",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0FFF4B8EA",
+    "name": "韩记河南烩面馆(八卦岭店)",
+    "district": "罗湖",
+    "address": "园岭街道八卦三路7栋一楼17号",
+    "phone": "",
+    "longitude": 114.100587,
+    "latitude": 22.561683,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "烩面"
+    ],
+    "cover": "",
+    "source_keyword": "河南菜",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0KKVC37FJ",
+    "name": "豫东来羊汤烩面(南园店)",
+    "district": "福田",
+    "address": "南园路88-3号(科学馆地铁站C口步行250米)",
+    "phone": "",
+    "longitude": 114.093271,
+    "latitude": 22.53872,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "烩面"
+    ],
+    "cover": "",
+    "source_keyword": "河南菜",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0L0ZRFMYO",
+    "name": "四季豫菜园羊汤(景田店)",
+    "district": "福田",
+    "address": "红荔西路48号新狮村小区",
+    "phone": "",
+    "longitude": 114.045253,
+    "latitude": 22.548592,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "河南菜"
+    ],
+    "cover": "",
+    "source_keyword": "河南菜",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0L6OHH0JN",
+    "name": "河南老式羊肉烩面(香蜜湖店)",
+    "district": "福田",
+    "address": "竹园小区北区(农林地铁站D1口步行390米)",
+    "phone": "",
+    "longitude": 114.015381,
+    "latitude": 22.540895,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "烩面"
+    ],
+    "cover": "",
+    "source_keyword": "河南菜",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0J0L7OJDT",
+    "name": "丁记烩面(福田地铁店)",
+    "district": "福田",
+    "address": "福田街道地铁十一号线福田站C012(福田枢纽南北配套)深铁汇坊C区",
+    "phone": "",
+    "longitude": 114.054686,
+    "latitude": 22.539257,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "烩面"
+    ],
+    "cover": "",
+    "source_keyword": "河南菜",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0LK0R8UL7",
+    "name": "河南丁记胡辣汤(华强南店)",
+    "district": "福田",
+    "address": "福虹路11号国际科技大厦(华强路地铁站C口步行90米)",
+    "phone": "",
+    "longitude": 114.083475,
+    "latitude": 22.539825,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "胡辣汤"
+    ],
+    "cover": "",
+    "source_keyword": "河南菜",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0G064M3KO",
+    "name": "河南胡辣汤(岗厦东一街店)",
+    "district": "福田",
+    "address": "岗厦统建街与福华路辅路交叉口西北160米",
+    "phone": "",
+    "longitude": 114.070639,
+    "latitude": 22.536736,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "胡辣汤"
+    ],
+    "cover": "",
+    "source_keyword": "河南菜",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0GDS1SSD0",
+    "name": "河南昌记烩面",
+    "district": "福田",
+    "address": "益田路1005号益田村(益田地铁站A口步行320米)",
+    "phone": "",
+    "longitude": 114.053555,
+    "latitude": 22.514639,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "烩面"
+    ],
+    "cover": "",
+    "source_keyword": "河南菜",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0MBMA6ZBW",
+    "name": "老孔家胡辣汤",
+    "district": "福田",
+    "address": "新洲一街新洲花园菜市场门口",
+    "phone": "",
+    "longitude": 114.047784,
+    "latitude": 22.525135,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "胡辣汤"
+    ],
+    "cover": "",
+    "source_keyword": "河南菜",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0MBR5QQT9",
+    "name": "河南口味儿",
+    "district": "福田",
+    "address": "梅华支路与梅丽路交叉口南120米",
+    "phone": "",
+    "longitude": 114.041925,
+    "latitude": 22.561875,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "河南菜"
+    ],
+    "cover": "",
+    "source_keyword": "河南菜",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0JGGZQ959",
+    "name": "南湾湖信阳菜(福田店)",
+    "district": "福田",
+    "address": "香蜜湖街道东海社区农轩路29号香珠花园C栋101",
+    "phone": "",
+    "longitude": 114.020155,
+    "latitude": 22.537195,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "河南菜"
+    ],
+    "cover": "",
+    "source_keyword": "河南菜",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B02F37TNRL",
+    "name": "豫面坊(松园店)",
+    "district": "罗湖",
+    "address": "松园路109-1号(园岭地铁站C口步行370米)",
+    "phone": "",
+    "longitude": 114.106285,
+    "latitude": 22.552517,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "河南菜"
+    ],
+    "cover": "",
+    "source_keyword": "河南菜",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0L2JH7I4U",
+    "name": "豫面坊·罗湖桂园店",
+    "district": "罗湖",
+    "address": "桂园街道桂木园社区桂园路58号果园西4栋4",
+    "phone": "",
+    "longitude": 114.11273,
+    "latitude": 22.548197,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "河南菜"
+    ],
+    "cover": "",
+    "source_keyword": "河南菜",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0LDGA3HM6",
+    "name": "豫碗烩羊汤烩面",
+    "district": "罗湖",
+    "address": "宝岗路82号(笋岗地铁站C2口步行110米)",
+    "phone": "",
+    "longitude": 114.112907,
+    "latitude": 22.564651,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "烩面"
+    ],
+    "cover": "",
+    "source_keyword": "河南菜",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0HU19ETHN",
+    "name": "河南胡辣汤(松源大厦店)",
+    "district": "罗湖",
+    "address": "坳下村东南门南90米(仙湖路地铁站B2口步行230米)",
+    "phone": "",
+    "longitude": 114.168577,
+    "latitude": 22.564955,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "胡辣汤"
+    ],
+    "cover": "",
+    "source_keyword": "河南菜",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0LB4A7AQG",
+    "name": "豫申会馆",
+    "district": "罗湖",
+    "address": "宝安北路国际商品交易大厦3楼",
+    "phone": "",
+    "longitude": 114.108812,
+    "latitude": 22.561269,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "河南菜"
+    ],
+    "cover": "",
+    "source_keyword": "河南菜",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0GKYXNF6M",
+    "name": "曹记河南烩面",
+    "district": "罗湖",
+    "address": "草埔村南门旁(草埔地铁站A口步行400米)",
+    "phone": "",
+    "longitude": 114.119402,
+    "latitude": 22.583388,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "烩面"
+    ],
+    "cover": "",
+    "source_keyword": "河南菜",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0FFHDWYQQ",
+    "name": "河南烩面(新秀店)",
+    "district": "罗湖",
+    "address": "沿河南路锦花大厦(新秀地铁站A口步行420米)",
+    "phone": "",
+    "longitude": 114.145177,
+    "latitude": 22.547864,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "烩面"
+    ],
+    "cover": "",
+    "source_keyword": "河南菜",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0L0RL74ZK",
+    "name": "王阿姨手工坊(纯手工包子)",
+    "district": "罗湖",
+    "address": "松泉公寓小区正街7栋105",
+    "phone": "",
+    "longitude": 114.129065,
+    "latitude": 22.577729,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "河南菜"
+    ],
+    "cover": "",
+    "source_keyword": "河南菜",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0FFI67NN4",
+    "name": "豫朋缘郝家猪蹄(东港印象家园店)",
+    "district": "盐田",
+    "address": "东港印象家园",
+    "phone": "",
+    "longitude": 114.249589,
+    "latitude": 22.592712,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "河南菜"
+    ],
+    "cover": "",
+    "source_keyword": "河南菜",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0H6LADBRW",
+    "name": "老雒阳面馆",
+    "district": "盐田",
+    "address": "西禾树79号",
+    "phone": "",
+    "longitude": 114.248497,
+    "latitude": 22.594676,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "河南菜"
+    ],
+    "cover": "",
+    "source_keyword": "河南菜",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0L1NCWHK9",
+    "name": "豫逍遥胡辣汤店",
+    "district": "盐田",
+    "address": "沙头角街道鹏瑞尚府113商铺",
+    "phone": "",
+    "longitude": 114.229219,
+    "latitude": 22.551588,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "胡辣汤"
+    ],
+    "cover": "",
+    "source_keyword": "河南菜",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0LRTC9MST",
+    "name": "深圳市豫味轩餐饮有限公司(中原酒家)",
+    "district": "盐田",
+    "address": "沙头角保税区17栋1层南108",
+    "phone": "",
+    "longitude": 114.24391,
+    "latitude": 22.559147,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "河南菜"
+    ],
+    "cover": "",
+    "source_keyword": "河南菜",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0KKDS2EWQ",
+    "name": "中源哥河南民间菜",
+    "district": "光明",
+    "address": "德政路10号",
+    "phone": "",
+    "longitude": 113.970619,
+    "latitude": 22.691774,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "河南菜"
+    ],
+    "cover": "",
+    "source_keyword": "河南菜",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0G0TKCW53",
+    "name": "丁记烩面(大益广场店)",
+    "district": "宝安",
+    "address": "西乡街道共乐工业村91-94号",
+    "phone": "",
+    "longitude": 113.866981,
+    "latitude": 22.582538,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "烩面"
+    ],
+    "cover": "",
+    "source_keyword": "河南菜",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0FFG8DWUS",
+    "name": "张氏三权地锅羊汤(福永总店)",
+    "district": "宝安",
+    "address": "福永街道怀德社区政丰南路9-1号福德楼二单元102",
+    "phone": "",
+    "longitude": 113.823976,
+    "latitude": 22.668116,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "河南菜"
+    ],
+    "cover": "",
+    "source_keyword": "河南菜",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0M6VCJNTZ",
+    "name": "清真豫阿穆饸饹(万象新天店)",
+    "district": "宝安",
+    "address": "西乡街道固兴社区香格丽湾园6栋130-132",
+    "phone": "",
+    "longitude": 113.850915,
+    "latitude": 22.602989,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "河南菜"
+    ],
+    "cover": "",
+    "source_keyword": "河南菜",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0FFM7B7FV",
+    "name": "钞记正宗河南羊汤滋补烩面(塘尾店)",
+    "district": "宝安",
+    "address": "塘尾村13区十二巷一号",
+    "phone": "",
+    "longitude": 113.804996,
+    "latitude": 22.703481,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "烩面"
+    ],
+    "cover": "",
+    "source_keyword": "河南菜",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0I375QWSN",
+    "name": "开封羊汤馆(前进二路店)",
+    "district": "宝安",
+    "address": "西乡街道前进二路开封羊汤馆1273",
+    "phone": "",
+    "longitude": 113.868843,
+    "latitude": 22.603707,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "河南菜"
+    ],
+    "cover": "",
+    "source_keyword": "河南菜",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0HUCUUQB6",
+    "name": "河南滋补烩面大锅羊汤(航空路店)",
+    "district": "宝安",
+    "address": "航城街道航空路丰泽楼109号商铺",
+    "phone": "",
+    "longitude": 113.834667,
+    "latitude": 22.603875,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "烩面"
+    ],
+    "cover": "",
+    "source_keyword": "河南菜",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0FFHRA2EG",
+    "name": "白记河南饭店",
+    "district": "宝安",
+    "address": "南环路97-3号",
+    "phone": "",
+    "longitude": 113.829191,
+    "latitude": 22.709978,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "河南菜"
+    ],
+    "cover": "",
+    "source_keyword": "河南菜",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0L3ZS06HS",
+    "name": "深圳市桐粤轩餐饮服务有限公司",
+    "district": "宝安",
+    "address": "固戍街道宝源路宝港中心A座201室",
+    "phone": "",
+    "longitude": 113.836303,
+    "latitude": 22.593055,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "河南菜"
+    ],
+    "cover": "",
+    "source_keyword": "河南菜",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0FFKN2S5W",
+    "name": "于老三胡辣汤(立新南路总店)",
+    "district": "宝安",
+    "address": "福永街道立新南路20号(福围地铁站C口步行100米)",
+    "phone": "",
+    "longitude": 113.820692,
+    "latitude": 22.658335,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "胡辣汤"
+    ],
+    "cover": "",
+    "source_keyword": "河南菜",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0IKNA07L6",
+    "name": "发时达河南烩面馆",
+    "district": "宝安",
+    "address": "福永街道福永社区金菊下路13-1",
+    "phone": "",
+    "longitude": 113.810296,
+    "latitude": 22.673111,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "烩面"
+    ],
+    "cover": "",
+    "source_keyword": "河南菜",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0FFJ1AV3C",
+    "name": "郝记羊汤烩面(流塘店)",
+    "district": "宝安",
+    "address": "广东省宝安区流塘路372号-374号",
+    "phone": "",
+    "longitude": 113.896661,
+    "latitude": 22.586789,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "烩面"
+    ],
+    "cover": "",
+    "source_keyword": "河南菜",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0LB1L2VOS",
+    "name": "老郑羊汤烩面店(步涌六分店)",
+    "district": "宝安",
+    "address": "步涌新村兴裕路13号洞庭湖土鸭隔壁",
+    "phone": "",
+    "longitude": 113.811112,
+    "latitude": 22.760766,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "烩面"
+    ],
+    "cover": "",
+    "source_keyword": "河南菜",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0MG7OIJVZ",
+    "name": "牛耕田江西小炒(石岩店)",
+    "district": "宝安",
+    "address": "石岩街道罗租社区罗租统建楼一巷1号石岩大道55号",
+    "phone": "",
+    "longitude": 113.939491,
+    "latitude": 22.674907,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "河南菜"
+    ],
+    "cover": "",
+    "source_keyword": "河南菜",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0K076AS53",
+    "name": "丁记烩面",
+    "district": "宝安",
+    "address": "天福路与重庆路交叉口西北180米",
+    "phone": "",
+    "longitude": 113.800208,
+    "latitude": 22.684514,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "烩面"
+    ],
+    "cover": "",
+    "source_keyword": "河南菜",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0G27UFNZU",
+    "name": "信阳人家(福洲大道店)",
+    "district": "宝安",
+    "address": "昌胜隆汽修厂东北门旁",
+    "phone": "",
+    "longitude": 113.826603,
+    "latitude": 22.67738,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "河南菜"
+    ],
+    "cover": "",
+    "source_keyword": "河南菜",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0FFG0J6L6",
+    "name": "河南风味面馆(兴业路)",
+    "district": "宝安",
+    "address": "西乡大道银田路西玉湖湾71号",
+    "phone": "",
+    "longitude": 113.849221,
+    "latitude": 22.57365,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "河南菜"
+    ],
+    "cover": "",
+    "source_keyword": "河南菜",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0FFLEVWHT",
+    "name": "河南羊肉馆(金利商务大厦店)",
+    "district": "宝安",
+    "address": "沙井街道步涌社区兴裕路22号B101-B102",
+    "phone": "",
+    "longitude": 113.811592,
+    "latitude": 22.761226,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "河南菜"
+    ],
+    "cover": "",
+    "source_keyword": "河南菜",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0FFFYYHFT",
+    "name": "豫东饭店(广田路店)",
+    "district": "宝安",
+    "address": "塘下涌村广田路141号",
+    "phone": "",
+    "longitude": 113.842729,
+    "latitude": 22.801161,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "河南菜"
+    ],
+    "cover": "",
+    "source_keyword": "河南菜",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0FFKX31AU",
+    "name": "正宗河南羊汤滋补烩面(沙三分店)",
+    "district": "宝安",
+    "address": "帝堂路55-13-16号",
+    "phone": "",
+    "longitude": 113.800319,
+    "latitude": 22.744772,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "烩面"
+    ],
+    "cover": "",
+    "source_keyword": "河南菜",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0IASMEJKT",
+    "name": "河南饭店(悦盛三路店)",
+    "district": "宝安",
+    "address": "新和社区工业北区20号17-18",
+    "phone": "",
+    "longitude": 113.802004,
+    "latitude": 22.668036,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "河南菜"
+    ],
+    "cover": "",
+    "source_keyword": "河南菜",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0FFKFZYEK",
+    "name": "老刘家河南羊肉烩面馆",
+    "district": "宝安",
+    "address": "如意路与罗租大道交叉口北50米",
+    "phone": "",
+    "longitude": 113.937769,
+    "latitude": 22.672466,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "烩面"
+    ],
+    "cover": "",
+    "source_keyword": "河南菜",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0L1LSF0BS",
+    "name": "林那豫逍遥胡辣汤",
+    "district": "宝安",
+    "address": "宝安大道4716-1号(固戍地铁站A口步行310米)",
+    "phone": "",
+    "longitude": 113.848935,
+    "latitude": 22.598042,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "胡辣汤"
+    ],
+    "cover": "",
+    "source_keyword": "河南菜",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0K3B9U67T",
+    "name": "李记河南羊肉烩面(万丰店)",
+    "district": "宝安",
+    "address": "万丰中路385号",
+    "phone": "",
+    "longitude": 113.825741,
+    "latitude": 22.723009,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "烩面"
+    ],
+    "cover": "",
+    "source_keyword": "河南菜",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0IA3XJVXV",
+    "name": "秦豫味道",
+    "district": "宝安",
+    "address": "乐群旧村七巷40一9",
+    "phone": "",
+    "longitude": 113.874676,
+    "latitude": 22.576691,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "河南菜"
+    ],
+    "cover": "",
+    "source_keyword": "河南菜",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0LR4AP0AU",
+    "name": "寻秦季 羊汤馆",
+    "district": "龙岗",
+    "address": "布澜路76号东久创新科技园2栋-6商铺",
+    "phone": "",
+    "longitude": 114.132034,
+    "latitude": 22.632464,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "河南菜"
+    ],
+    "cover": "",
+    "source_keyword": "河南菜",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0L2DZ83FT",
+    "name": "方中山胡辣汤(深圳龙岗店)",
+    "district": "龙岗",
+    "address": "龙城街道吉祥社区龙岗大道2179号岗贝市场A13-A14",
+    "phone": "",
+    "longitude": 114.241482,
+    "latitude": 22.707522,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "胡辣汤"
+    ],
+    "cover": "",
+    "source_keyword": "河南菜",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0FFHNST00",
+    "name": "唐河王记(深圳总店)",
+    "district": "龙岗",
+    "address": "植物园路375号(南联地铁站A2口步行490米)",
+    "phone": "",
+    "longitude": 114.265304,
+    "latitude": 22.718007,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "河南菜"
+    ],
+    "cover": "",
+    "source_keyword": "河南菜",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0J1D73PVA",
+    "name": "豫面坊东大街店",
+    "district": "龙岗",
+    "address": "中翠路佳纷天地富家欢超市一楼豫面坊",
+    "phone": "",
+    "longitude": 114.141143,
+    "latitude": 22.610365,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "河南菜"
+    ],
+    "cover": "",
+    "source_keyword": "河南菜",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0K0BBBPAV",
+    "name": "河南人家(坂兴路店)",
+    "district": "龙华",
+    "address": "坂兴路与吉华路交叉口东北20米",
+    "phone": "",
+    "longitude": 114.066889,
+    "latitude": 22.636414,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "河南菜"
+    ],
+    "cover": "",
+    "source_keyword": "河南菜",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0M6BMG799",
+    "name": "三品牛",
+    "district": "龙岗",
+    "address": "南湾街道下李朗社区下李南路73号东久创新科技园2期4栋4-05",
+    "phone": "",
+    "longitude": 114.13486,
+    "latitude": 22.63344,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "河南菜"
+    ],
+    "cover": "",
+    "source_keyword": "河南菜",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0IAK7G08N",
+    "name": "河南烩面(李朗店)",
+    "district": "龙岗",
+    "address": "南湾街道深朗南区74号楼",
+    "phone": "",
+    "longitude": 114.129557,
+    "latitude": 22.643628,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "烩面"
+    ],
+    "cover": "",
+    "source_keyword": "河南菜",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0JULRQA6R",
+    "name": "光头老崔河南胡辣汤",
+    "district": "龙岗",
+    "address": "龙盛街道盛平社区盛华路3-2",
+    "phone": "",
+    "longitude": 114.256568,
+    "latitude": 22.729667,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "胡辣汤"
+    ],
+    "cover": "",
+    "source_keyword": "河南菜",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0FFI8YI6A",
+    "name": "河南饭店(丹平快速路店)",
+    "district": "龙岗",
+    "address": "丹平人行天桥丹平小上区1巷62号2号门右手边",
+    "phone": "",
+    "longitude": 114.157078,
+    "latitude": 22.629672,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "河南菜"
+    ],
+    "cover": "",
+    "source_keyword": "河南菜",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0FFHC91OU",
+    "name": "河南烩面中原面菜馆(京南路店)",
+    "district": "龙岗",
+    "address": "欣业大厦正门旁",
+    "phone": "",
+    "longitude": 114.123425,
+    "latitude": 22.600875,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "烩面"
+    ],
+    "cover": "",
+    "source_keyword": "河南菜",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0FFGAXFCQ",
+    "name": "河南菜馆(黄竹南路店)",
+    "district": "坪山",
+    "address": "坪地街道坪地镇黄竹村黄竹南路31号",
+    "phone": "",
+    "longitude": 114.305525,
+    "latitude": 22.760359,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "河南菜"
+    ],
+    "cover": "",
+    "source_keyword": "河南菜",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0LGLCM4Z6",
+    "name": "河南饭庄(和悦村店)",
+    "district": "龙岗",
+    "address": "横岗街道横岗社区南塘老村14号105",
+    "phone": "",
+    "longitude": 114.208484,
+    "latitude": 22.642145,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "河南菜"
+    ],
+    "cover": "",
+    "source_keyword": "河南菜",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0LD5STTTF",
+    "name": "河南方城烩面",
+    "district": "龙岗",
+    "address": "龙岗街道南联社区龙河路96号101",
+    "phone": "",
+    "longitude": 114.257763,
+    "latitude": 22.723455,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "烩面"
+    ],
+    "cover": "",
+    "source_keyword": "河南菜",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0GU9XUU09",
+    "name": "华记茶餐厅(白泥坑店)",
+    "district": "龙岗",
+    "address": "平湖街道白坭坑社区莲塘花五巷1号101",
+    "phone": "",
+    "longitude": 114.158949,
+    "latitude": 22.653452,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "河南菜"
+    ],
+    "cover": "",
+    "source_keyword": "河南菜",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0LA41B844",
+    "name": "河南饭店",
+    "district": "龙岗",
+    "address": "新木路329号(木古地铁站A口步行120米)",
+    "phone": "",
+    "longitude": 114.123183,
+    "latitude": 22.669676,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "河南菜"
+    ],
+    "cover": "",
+    "source_keyword": "河南菜",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0FFI814DO",
+    "name": "郑记羊肉汤(坂田店)",
+    "district": "龙华",
+    "address": "荣丰职工大楼大发路7号",
+    "phone": "",
+    "longitude": 114.054424,
+    "latitude": 22.630899,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "羊肉汤"
+    ],
+    "cover": "",
+    "source_keyword": "河南菜",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0HAN7N9MF",
+    "name": "河南小馆",
+    "district": "龙岗",
+    "address": "龙岗街道仙人岭路6-7号",
+    "phone": "",
+    "longitude": 114.279205,
+    "latitude": 22.740867,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "河南菜"
+    ],
+    "cover": "",
+    "source_keyword": "河南菜",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0FFJ7YASR",
+    "name": "晓广鲜炒鸡烩面",
+    "district": "大鹏",
+    "address": "葵涌镇高源社区新源路12巷4-5号",
+    "phone": "",
+    "longitude": 114.435673,
+    "latitude": 22.63208,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "烩面"
+    ],
+    "cover": "",
+    "source_keyword": "河南菜",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0JUH9ZGQM",
+    "name": "全羊汤烩面",
+    "district": "龙岗",
+    "address": "平湖街道鹅公岭社区东门路15号东门路11号",
+    "phone": "",
+    "longitude": 114.156845,
+    "latitude": 22.676318,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "烩面"
+    ],
+    "cover": "",
+    "source_keyword": "河南菜",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0IBSAM6NG",
+    "name": "河南饭店(新木老街店)",
+    "district": "龙岗",
+    "address": "新木路302-5号(木古地铁站A口步行390米)",
+    "phone": "",
+    "longitude": 114.126847,
+    "latitude": 22.668775,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "河南菜"
+    ],
+    "cover": "",
+    "source_keyword": "河南菜",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0FFLHDBQY",
+    "name": "河南烩面(南岭店)",
+    "district": "龙岗",
+    "address": "南湾街道黄金南路黄金富苑A9",
+    "phone": "",
+    "longitude": 114.143209,
+    "latitude": 22.608809,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "烩面"
+    ],
+    "cover": "",
+    "source_keyword": "河南菜",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0HDZZ1I2W",
+    "name": "豫羊汤烩面",
+    "district": "龙岗",
+    "address": "横岗街道六约社区宸和路36-10",
+    "phone": "",
+    "longitude": 114.191493,
+    "latitude": 22.635189,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "烩面"
+    ],
+    "cover": "",
+    "source_keyword": "河南菜",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0FFHJZQTI",
+    "name": "河南家常菜",
+    "district": "龙岗",
+    "address": "宝龙街道南约马桥南区九号107",
+    "phone": "",
+    "longitude": 114.280444,
+    "latitude": 22.695501,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "河南菜"
+    ],
+    "cover": "",
+    "source_keyword": "河南菜",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0FFKX2OO8",
+    "name": "常记红烧牛肉面河南烩面",
+    "district": "龙岗",
+    "address": "坳南路与红棉路交叉口西北40米",
+    "phone": "",
+    "longitude": 114.212924,
+    "latitude": 22.669146,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "烩面"
+    ],
+    "cover": "",
+    "source_keyword": "河南菜",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0J0FYP1DT",
+    "name": "河南胡辣汤(平南路店)",
+    "district": "龙岗",
+    "address": "平南社区平南路63号",
+    "phone": "",
+    "longitude": 114.270443,
+    "latitude": 22.727522,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "胡辣汤"
+    ],
+    "cover": "",
+    "source_keyword": "河南菜",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0JRYY7UI3",
+    "name": "豫喜园瘸子烩面(深圳龙华总店)",
+    "district": "龙华",
+    "address": "龙华街道龙观东路162号广诚商业大厦104-105商铺",
+    "phone": "",
+    "longitude": 114.020529,
+    "latitude": 22.663468,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "烩面"
+    ],
+    "cover": "",
+    "source_keyword": "河南菜",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B02F38JLBD",
+    "name": "丁记烩面(龙华店)",
+    "district": "龙华",
+    "address": "和平东路景华新村南区16栋",
+    "phone": "",
+    "longitude": 114.024676,
+    "latitude": 22.653497,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "烩面"
+    ],
+    "cover": "",
+    "source_keyword": "河南菜",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0LBOS6Q8O",
+    "name": "豫蓉颜牛肉胡辣汤",
+    "district": "龙华",
+    "address": "民治街道春华四季园南门9栋115号",
+    "phone": "",
+    "longitude": 114.054827,
+    "latitude": 22.619766,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "胡辣汤"
+    ],
+    "cover": "",
+    "source_keyword": "河南菜",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0FFGDRFD3",
+    "name": "印象河南滋补羊汤烩面馆",
+    "district": "龙华",
+    "address": "民治街道民旺路143号民福楼",
+    "phone": "",
+    "longitude": 114.035364,
+    "latitude": 22.621057,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "烩面"
+    ],
+    "cover": "",
+    "source_keyword": "河南菜",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0GU3UJRMK",
+    "name": "开封羊汤烩面.家常炒菜(天虹店)",
+    "district": "龙华",
+    "address": "观澜大和路174号天虹超市对面",
+    "phone": "",
+    "longitude": 114.05001,
+    "latitude": 22.694501,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "河南菜",
+      "烩面"
+    ],
+    "cover": "",
+    "source_keyword": "河南菜",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0FFJ09429",
+    "name": "周记烩面(章阁店)",
+    "district": "龙华",
+    "address": "观澜街道樟阁社区樟吉路6-1号",
+    "phone": "",
+    "longitude": 114.018919,
+    "latitude": 22.741051,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "烩面"
+    ],
+    "cover": "",
+    "source_keyword": "河南菜",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0FFKT1ZG7",
+    "name": "豫林轩(龙华店)",
+    "district": "光明",
+    "address": "华宁路18号智选假日酒店隔壁",
+    "phone": "",
+    "longitude": 113.988729,
+    "latitude": 22.69022,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "河南菜"
+    ],
+    "cover": "",
+    "source_keyword": "河南菜",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0LDYSY2VX",
+    "name": "破酥包手工大包子",
+    "district": "龙华",
+    "address": "龙华街道和联社区龙华富联二区224号青龙路32号",
+    "phone": "",
+    "longitude": 114.034768,
+    "latitude": 22.667917,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "河南菜"
+    ],
+    "cover": "",
+    "source_keyword": "河南菜",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0I677PEXV",
+    "name": "河南羊汤烩面",
+    "district": "龙华",
+    "address": "龙塘村西区5巷6号101房",
+    "phone": "",
+    "longitude": 114.014029,
+    "latitude": 22.630342,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "烩面"
+    ],
+    "cover": "",
+    "source_keyword": "河南菜",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0FFLIRE2M",
+    "name": "方城烩面(华旺路店)",
+    "district": "龙华",
+    "address": "大浪街道浪口社区,浪口九区,华旺路228号,方城烩面",
+    "phone": "",
+    "longitude": 114.005068,
+    "latitude": 22.679069,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "烩面"
+    ],
+    "cover": "",
+    "source_keyword": "河南菜",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0HBG5ENU0",
+    "name": "北方大烩菜",
+    "district": "龙华",
+    "address": "福城街道大水坑社区大三村鸿祥小区163-3",
+    "phone": "",
+    "longitude": 114.012078,
+    "latitude": 22.726906,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "河南菜"
+    ],
+    "cover": "",
+    "source_keyword": "河南菜",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0FFFRJJ46",
+    "name": "郑州烩面馆(富豪新村四巷店)",
+    "district": "龙华",
+    "address": "水斗富豪新村四巷3号",
+    "phone": "",
+    "longitude": 114.052125,
+    "latitude": 22.642211,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "烩面"
+    ],
+    "cover": "",
+    "source_keyword": "河南菜",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0FFKG9E5Q",
+    "name": "河南羊汤烩面(福前路店)",
+    "district": "龙华",
+    "address": "福前路100-3号",
+    "phone": "",
+    "longitude": 114.029559,
+    "latitude": 22.717379,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "烩面"
+    ],
+    "cover": "",
+    "source_keyword": "河南菜",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0FFKS8E5X",
+    "name": "中原牛羊肉大骨头(龙华店)",
+    "district": "光明",
+    "address": "华宁路18-3",
+    "phone": "",
+    "longitude": 113.988643,
+    "latitude": 22.690183,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "河南菜"
+    ],
+    "cover": "",
+    "source_keyword": "河南菜",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0FFHXQO4W",
+    "name": "河南烩面水饺(龙华店)",
+    "district": "龙华",
+    "address": "宝龙新村354-2",
+    "phone": "",
+    "longitude": 114.019015,
+    "latitude": 22.675866,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "烩面"
+    ],
+    "cover": "",
+    "source_keyword": "河南菜",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0K1G6R8OD",
+    "name": "赵记羊汤滋补烩面",
+    "district": "龙华",
+    "address": "福城街道樟阁60-5",
+    "phone": "",
+    "longitude": 114.022208,
+    "latitude": 22.738704,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "烩面"
+    ],
+    "cover": "",
+    "source_keyword": "河南菜",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0LKHGQ0M9",
+    "name": "河南烩面",
+    "district": "龙华",
+    "address": "上油松邨东北门旁",
+    "phone": "",
+    "longitude": 114.045663,
+    "latitude": 22.637433,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "烩面"
+    ],
+    "cover": "",
+    "source_keyword": "河南菜",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0LR7XJXSP",
+    "name": "渔火顺德干蒸烧烤漓江啤酒鱼",
+    "district": "龙华",
+    "address": "龙观大道富民商业中心106号铺",
+    "phone": "",
+    "longitude": 114.018262,
+    "latitude": 22.662542,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "河南菜"
+    ],
+    "cover": "",
+    "source_keyword": "河南菜",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0MGKAJFC8",
+    "name": "锅边辣江西小炒(民治店)",
+    "district": "龙华",
+    "address": "民治街道民强社区鸿荣源博誉府3栋一单元B1M135-5号",
+    "phone": "",
+    "longitude": 114.034313,
+    "latitude": 22.622051,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "河南菜"
+    ],
+    "cover": "",
+    "source_keyword": "河南菜",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0K3YS6KFZ",
+    "name": "清真河南菜馆",
+    "district": "龙华",
+    "address": "樟坑二区114栋",
+    "phone": "",
+    "longitude": 114.035234,
+    "latitude": 22.617473,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "河南菜"
+    ],
+    "cover": "",
+    "source_keyword": "河南菜",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0FFHKBP79",
+    "name": "河南烩面",
+    "district": "光明",
+    "address": "九华街道九华新区华宁路83-20",
+    "phone": "",
+    "longitude": 113.988289,
+    "latitude": 22.689692,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "烩面"
+    ],
+    "cover": "",
+    "source_keyword": "河南菜",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0HA1SD9TS",
+    "name": "河南烩面",
+    "district": "龙华",
+    "address": "油园新村南四巷了5幢",
+    "phone": "",
+    "longitude": 114.042125,
+    "latitude": 22.642525,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "烩面"
+    ],
+    "cover": "",
+    "source_keyword": "河南菜",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0FFKB96WC",
+    "name": "豫满香河南羊肉烩面馆",
+    "district": "龙华",
+    "address": "大坪社区樟企路106号",
+    "phone": "",
+    "longitude": 114.050663,
+    "latitude": 22.747051,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "烩面"
+    ],
+    "cover": "",
+    "source_keyword": "河南菜",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0H2NCGGP1",
+    "name": "河南饭店(松元厦中心新村店)",
+    "district": "龙华",
+    "address": "松元厦中心新村55-1-1号",
+    "phone": "",
+    "longitude": 114.074075,
+    "latitude": 22.71949,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "河南菜"
+    ],
+    "cover": "",
+    "source_keyword": "河南菜",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0H01HPEZC",
+    "name": "河南羊肉烩面(平安路店)",
+    "district": "龙华",
+    "address": "观湖豫香园羊肉烩面馆",
+    "phone": "",
+    "longitude": 114.060003,
+    "latitude": 22.709469,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "烩面"
+    ],
+    "cover": "",
+    "source_keyword": "河南菜",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0HA6Y6EKK",
+    "name": "河南饭店(平湖店)",
+    "district": "龙岗",
+    "address": "汇智谷绿色印刷产业园东南门旁",
+    "phone": "",
+    "longitude": 114.119341,
+    "latitude": 22.684698,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "河南菜"
+    ],
+    "cover": "",
+    "source_keyword": "河南饭店",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0FFGIQ19H",
+    "name": "河南饭店",
+    "district": "龙华",
+    "address": "马安堂社区新河街17-1号美禾大厦",
+    "phone": "",
+    "longitude": 114.073646,
+    "latitude": 22.626207,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "河南菜"
+    ],
+    "cover": "",
+    "source_keyword": "河南饭店",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0LGRLFNA2",
+    "name": "河南饭店",
+    "district": "龙岗",
+    "address": "香山路与中环大道交叉口西北40米",
+    "phone": "",
+    "longitude": 114.107976,
+    "latitude": 22.703003,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "河南菜"
+    ],
+    "cover": "",
+    "source_keyword": "河南饭店",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0JB2CRDMF",
+    "name": "河南饭店(岐康路店)",
+    "district": "龙岗",
+    "address": "岐康路8号",
+    "phone": "",
+    "longitude": 114.11244,
+    "latitude": 22.692056,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "河南菜"
+    ],
+    "cover": "",
+    "source_keyword": "河南饭店",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0MG5PX3DK",
+    "name": "豫东河南饭店",
+    "district": "龙华",
+    "address": "新围仔村",
+    "phone": "",
+    "longitude": 114.074461,
+    "latitude": 22.620916,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "河南菜"
+    ],
+    "cover": "",
+    "source_keyword": "河南饭店",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0FFGQ2VA6",
+    "name": "河南饭店",
+    "district": "宝安",
+    "address": "黄麻布路39-2河南饭店",
+    "phone": "",
+    "longitude": 113.86688,
+    "latitude": 22.663217,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "河南菜"
+    ],
+    "cover": "",
+    "source_keyword": "河南饭店",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0J1H1QEZM",
+    "name": "河南饭店(环玉路店)",
+    "district": "光明",
+    "address": "珍玉一路与玉昌西路交叉口北160米",
+    "phone": "",
+    "longitude": 113.891479,
+    "latitude": 22.715119,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "河南菜"
+    ],
+    "cover": "",
+    "source_keyword": "河南饭店",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0LKB6RUYD",
+    "name": "河南饭店",
+    "district": "龙岗",
+    "address": "圳埔岭路与龙城大道交叉口西南180米",
+    "phone": "",
+    "longitude": 114.253296,
+    "latitude": 22.70873,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "河南菜"
+    ],
+    "cover": "",
+    "source_keyword": "河南饭店",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0FFG51NC6",
+    "name": "河南饭店(庄村路店)",
+    "district": "光明",
+    "address": "新桥街道庄村路48号112-113",
+    "phone": "",
+    "longitude": 113.859784,
+    "latitude": 22.719191,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "河南菜"
+    ],
+    "cover": "",
+    "source_keyword": "河南饭店",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0JK5SCAS7",
+    "name": "河南饭店(植物园路店)",
+    "district": "龙岗",
+    "address": "植物园路383-a栋(南联地铁站A2口步行380米)",
+    "phone": "",
+    "longitude": 114.264925,
+    "latitude": 22.718976,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "河南菜"
+    ],
+    "cover": "",
+    "source_keyword": "河南饭店",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0K1VSLGFF",
+    "name": "河南饭店",
+    "district": "龙岗",
+    "address": "水二路与水背龙路交叉口西20米",
+    "phone": "",
+    "longitude": 114.275755,
+    "latitude": 22.693378,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "河南菜"
+    ],
+    "cover": "",
+    "source_keyword": "河南饭店",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0HGCNFDQJ",
+    "name": "河南饭店(塘前路店)",
+    "district": "光明",
+    "address": "塘前路与塘尾路交叉口北20米",
+    "phone": "",
+    "longitude": 113.905618,
+    "latitude": 22.750975,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "河南菜"
+    ],
+    "cover": "",
+    "source_keyword": "河南饭店",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0FFFRDC3V",
+    "name": "河南饭店(松山西路店)",
+    "district": "宝安",
+    "address": "松山西路43号",
+    "phone": "",
+    "longitude": 113.816002,
+    "latitude": 22.721478,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "河南菜"
+    ],
+    "cover": "",
+    "source_keyword": "河南饭店",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0HD25E5P2",
+    "name": "河南饭店(宝桐路店)",
+    "district": "龙岗",
+    "address": "西坑社区宝桐北路13号",
+    "phone": "",
+    "longitude": 114.222128,
+    "latitude": 22.613015,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "河南菜"
+    ],
+    "cover": "",
+    "source_keyword": "河南饭店",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0FFHGO7X8",
+    "name": "河南饭店(向西路店)",
+    "district": "宝安",
+    "address": "新桥街道上星社区文明路7-7号",
+    "phone": "",
+    "longitude": 113.833123,
+    "latitude": 22.731139,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "河南菜"
+    ],
+    "cover": "",
+    "source_keyword": "河南饭店",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0L6R74IVB",
+    "name": "河南饭店",
+    "district": "坪山",
+    "address": "深汕路(坑梓段)97号坪山大道6067号",
+    "phone": "",
+    "longitude": 114.35727,
+    "latitude": 22.725878,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "河南菜"
+    ],
+    "cover": "",
+    "source_keyword": "河南饭店",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0J06CO5H9",
+    "name": "河南饭店(松白路店)",
+    "district": "光明",
+    "address": "山门路与上山门二路交叉口西40米",
+    "phone": "",
+    "longitude": 113.855475,
+    "latitude": 22.774825,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "河南菜"
+    ],
+    "cover": "",
+    "source_keyword": "河南饭店",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0FFLKJFFO",
+    "name": "河南饭店",
+    "district": "宝安",
+    "address": "西沙路36-14号(蚝乡地铁站D口步行430米)",
+    "phone": "",
+    "longitude": 113.790579,
+    "latitude": 22.743775,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "河南菜"
+    ],
+    "cover": "",
+    "source_keyword": "河南饭店",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0MG2N0VOL",
+    "name": "河南饭馆",
+    "district": "龙华",
+    "address": "新牛路与万众街交叉口东南140米",
+    "phone": "",
+    "longitude": 114.039075,
+    "latitude": 22.634575,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "河南菜"
+    ],
+    "cover": "",
+    "source_keyword": "河南饭店",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0FFMDQZR2",
+    "name": "河南饭店(吉祥二路店)",
+    "district": "龙岗",
+    "address": "坪地街道坪西社区香元新村4号",
+    "phone": "",
+    "longitude": 114.292135,
+    "latitude": 22.771937,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "河南菜"
+    ],
+    "cover": "",
+    "source_keyword": "河南饭店",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0JUTX0HY9",
+    "name": "河南饭店(荟萃E家青年社区店)",
+    "district": "宝安",
+    "address": "麻磡路与麻磡南路交叉口西180米",
+    "phone": "",
+    "longitude": 113.948326,
+    "latitude": 22.63406,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "河南菜"
+    ],
+    "cover": "",
+    "source_keyword": "河南饭店",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0G3LKCRHC",
+    "name": "河南面馆",
+    "district": "宝安",
+    "address": "罗租工业大道与同辉路交叉口东北80米",
+    "phone": "",
+    "longitude": 113.932309,
+    "latitude": 22.67256,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "河南菜"
+    ],
+    "cover": "",
+    "source_keyword": "河南面馆",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0FFFA22A6",
+    "name": "河南面馆(兴围店)",
+    "district": "宝安",
+    "address": "兴围社区兴业一路83号",
+    "phone": "",
+    "longitude": 113.830636,
+    "latitude": 22.638096,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "河南菜"
+    ],
+    "cover": "",
+    "source_keyword": "河南面馆",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0FFG0YTAY",
+    "name": "马记河南面馆(新安店)",
+    "district": "宝安",
+    "address": "甲岸村5栋106铺",
+    "phone": "",
+    "longitude": 113.904072,
+    "latitude": 22.560467,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "河南菜"
+    ],
+    "cover": "",
+    "source_keyword": "河南面馆",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0K3M7JA3B",
+    "name": "河南面馆",
+    "district": "宝安",
+    "address": "福永街道德芳路78号",
+    "phone": "",
+    "longitude": 113.818169,
+    "latitude": 22.668836,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "河南菜"
+    ],
+    "cover": "",
+    "source_keyword": "河南面馆",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0FFKU6VV1",
+    "name": "河南面馆(凤凰店)",
+    "district": "宝安",
+    "address": "凤凰西区8号",
+    "phone": "",
+    "longitude": 113.839408,
+    "latitude": 22.693311,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "河南菜"
+    ],
+    "cover": "",
+    "source_keyword": "河南面馆",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0L09OEQ4W",
+    "name": "河南羊汤烩面",
+    "district": "宝安",
+    "address": "天宝牙科东侧(应人石地铁站C口步行480米)",
+    "phone": "",
+    "longitude": 113.928205,
+    "latitude": 22.648929,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "烩面"
+    ],
+    "cover": "",
+    "source_keyword": "河南面馆",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0FFG02RUF",
+    "name": "河南面馆(东美路)",
+    "district": "光明",
+    "address": "南边头工业区西门旁",
+    "phone": "",
+    "longitude": 113.864932,
+    "latitude": 22.750876,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "河南菜"
+    ],
+    "cover": "",
+    "source_keyword": "河南面馆",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0K3YZZRKO",
+    "name": "河南面馆(海城新村店)",
+    "district": "宝安",
+    "address": "海城新村西北1门东南70米",
+    "phone": "",
+    "longitude": 113.864489,
+    "latitude": 22.565973,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "河南菜"
+    ],
+    "cover": "",
+    "source_keyword": "河南面馆",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0FFIXDYSH",
+    "name": "河南面馆(凤凰北区店)",
+    "district": "宝安",
+    "address": "福永街道凤凰社区凤凰北区26号楼凤凰大道190号",
+    "phone": "",
+    "longitude": 113.836255,
+    "latitude": 22.695328,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "河南菜"
+    ],
+    "cover": "",
+    "source_keyword": "河南面馆",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0FFFE4AAE",
+    "name": "河南烩面馆(埔头桥二路店)",
+    "district": "宝安",
+    "address": "沙井镇步涌村埔头桥二路2号",
+    "phone": "",
+    "longitude": 113.814818,
+    "latitude": 22.751942,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "烩面"
+    ],
+    "cover": "",
+    "source_keyword": "河南面馆",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0H1XS51KT",
+    "name": "河南烩面馆(桥南新区店)",
+    "district": "宝安",
+    "address": "福海街道桥头社区桥南新村47栋1号",
+    "phone": "",
+    "longitude": 113.810845,
+    "latitude": 22.691606,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "烩面"
+    ],
+    "cover": "",
+    "source_keyword": "河南面馆",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0MDA14A54",
+    "name": "河南面馆(罗中路店)",
+    "district": "光明",
+    "address": "罗中路北区280号楼",
+    "phone": "",
+    "longitude": 113.871375,
+    "latitude": 22.798425,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "河南菜"
+    ],
+    "cover": "",
+    "source_keyword": "河南面馆",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0FFFX09RI",
+    "name": "河南烩面馆(料坑大道店)",
+    "district": "宝安",
+    "address": "料坑新村料坑大道28号",
+    "phone": "",
+    "longitude": 113.888368,
+    "latitude": 22.665989,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "烩面"
+    ],
+    "cover": "",
+    "source_keyword": "河南面馆",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0FFH8705B",
+    "name": "河南面馆(帝堂路店)",
+    "district": "宝安",
+    "address": "帝堂路与沙三商业步行街交叉口西南20米",
+    "phone": "",
+    "longitude": 113.800017,
+    "latitude": 22.744767,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "河南菜"
+    ],
+    "cover": "",
+    "source_keyword": "河南面馆",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0FFLISHVK",
+    "name": "蒋记河南烩面馆",
+    "district": "宝安",
+    "address": "罗租街道罗租工业路307号",
+    "phone": "",
+    "longitude": 113.933066,
+    "latitude": 22.6738,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "烩面"
+    ],
+    "cover": "",
+    "source_keyword": "河南面馆",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0HDA5X5TU",
+    "name": "秦记河南面馆(九围新村一区店)",
+    "district": "宝安",
+    "address": "九围新村一区秦记河南面馆",
+    "phone": "",
+    "longitude": 113.862828,
+    "latitude": 22.644185,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "河南菜"
+    ],
+    "cover": "",
+    "source_keyword": "河南面馆",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0KDUNX2MU",
+    "name": "河南豫香烩面馆",
+    "district": "宝安",
+    "address": "开屏农贸市场北门旁",
+    "phone": "",
+    "longitude": 113.884369,
+    "latitude": 22.569791,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "烩面"
+    ],
+    "cover": "",
+    "source_keyword": "河南面馆",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0H3GL53V9",
+    "name": "河南烩面馆(松兴路店)",
+    "district": "宝安",
+    "address": "松岗街道沙朗路80-6",
+    "phone": "",
+    "longitude": 113.820918,
+    "latitude": 22.772838,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "烩面"
+    ],
+    "cover": "",
+    "source_keyword": "河南面馆",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0FFHEDHBG",
+    "name": "河南饭店(凤凰社区店)",
+    "district": "宝安",
+    "address": "凤凰东区105栋一楼",
+    "phone": "",
+    "longitude": 113.839691,
+    "latitude": 22.686643,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "河南菜"
+    ],
+    "cover": "",
+    "source_keyword": "河南面馆",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0H0T7OBSX",
+    "name": "河南烩面馆烧烤(平安大道店)",
+    "district": "宝安",
+    "address": "平安大道与创业五路交叉口西北40米",
+    "phone": "",
+    "longitude": 113.80272,
+    "latitude": 22.773833,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "烩面"
+    ],
+    "cover": "",
+    "source_keyword": "河南面馆",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0FFHSNJ7R",
+    "name": "钞记河南烩面",
+    "district": "宝安",
+    "address": "广东省宝安区福海街道和秀西路71号久阳工业园",
+    "phone": "",
+    "longitude": 113.787619,
+    "latitude": 22.692488,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "烩面"
+    ],
+    "cover": "",
+    "source_keyword": "河南面馆",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0H25LMVLZ",
+    "name": "河南面馆(埔厦路店)",
+    "district": "龙岗",
+    "address": "埔厦路梧桐花园东侧约90米",
+    "phone": "",
+    "longitude": 114.185667,
+    "latitude": 22.64092,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "河南菜"
+    ],
+    "cover": "",
+    "source_keyword": "河南面馆",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0LUY6PKY3",
+    "name": "河南烩面馆",
+    "district": "龙岗",
+    "address": "信和路与丽湖大道交叉口南20米",
+    "phone": "",
+    "longitude": 114.107525,
+    "latitude": 22.626225,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "烩面"
+    ],
+    "cover": "",
+    "source_keyword": "河南面馆",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0FFK9GM50",
+    "name": "河南面馆(贵德楼店)",
+    "district": "龙岗",
+    "address": "福星路42号贵德楼(禾花地铁站B口步行290米)",
+    "phone": "",
+    "longitude": 114.123802,
+    "latitude": 22.688389,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "河南菜"
+    ],
+    "cover": "",
+    "source_keyword": "河南面馆",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0FFH0Y7YV",
+    "name": "河南面食馆(园东苑店)",
+    "district": "龙华",
+    "address": "雪象村中浩三区12栋(雪象地铁站C口步行500米)",
+    "phone": "",
+    "longitude": 114.078942,
+    "latitude": 22.652748,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "河南菜"
+    ],
+    "cover": "",
+    "source_keyword": "河南面馆",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0FFF4H6H4",
+    "name": "河南烩面馆",
+    "district": "龙岗",
+    "address": "横岗街道六约宸和路26号",
+    "phone": "",
+    "longitude": 114.191359,
+    "latitude": 22.634573,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "烩面"
+    ],
+    "cover": "",
+    "source_keyword": "河南面馆",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0IUPUA8XZ",
+    "name": "河南面食馆",
+    "district": "龙华",
+    "address": "坂田街道上雪路亿达步行街19号",
+    "phone": "",
+    "longitude": 114.085712,
+    "latitude": 22.644989,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "河南菜"
+    ],
+    "cover": "",
+    "source_keyword": "河南面馆",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0FFGWQ41J",
+    "name": "河南面馆",
+    "district": "龙岗",
+    "address": "爱联新屯牛仔园南一巷一号对面",
+    "phone": "",
+    "longitude": 114.237404,
+    "latitude": 22.696313,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "河南菜"
+    ],
+    "cover": "",
+    "source_keyword": "河南面馆",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0LRM5Y9KH",
+    "name": "方记河南烩面馆",
+    "district": "龙华",
+    "address": "坂田高新技术工业园东门旁",
+    "phone": "",
+    "longitude": 114.06233,
+    "latitude": 22.640391,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "烩面"
+    ],
+    "cover": "",
+    "source_keyword": "河南面馆",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0HA24OS6L",
+    "name": "河南面馆",
+    "district": "龙岗",
+    "address": "龙岗街道五联社区连心路35号",
+    "phone": "",
+    "longitude": 114.232828,
+    "latitude": 22.746616,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "河南菜"
+    ],
+    "cover": "",
+    "source_keyword": "河南面馆",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0FFG9KJBG",
+    "name": "河南烩面馆(贤西街店)",
+    "district": "龙岗",
+    "address": "横岗街道四联社区贤西街18号101",
+    "phone": "",
+    "longitude": 114.196747,
+    "latitude": 22.649,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "烩面"
+    ],
+    "cover": "",
+    "source_keyword": "河南面馆",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0FFH8HGFO",
+    "name": "河南面馆(方兴科技园店)",
+    "district": "龙岗",
+    "address": "宝南路81-3号",
+    "phone": "",
+    "longitude": 114.255428,
+    "latitude": 22.703778,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "河南菜"
+    ],
+    "cover": "",
+    "source_keyword": "河南面馆",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0LASR4FSJ",
+    "name": "河南面馆",
+    "district": "龙岗",
+    "address": "金井路与妈祖北路交叉口西南280米",
+    "phone": "",
+    "longitude": 114.285075,
+    "latitude": 22.714725,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "河南菜"
+    ],
+    "cover": "",
+    "source_keyword": "河南面馆",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0FFIRFSQW",
+    "name": "河南烩面馆",
+    "district": "龙岗",
+    "address": "强诚达工业园西北门西南100米",
+    "phone": "",
+    "longitude": 114.229684,
+    "latitude": 22.630117,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "烩面"
+    ],
+    "cover": "",
+    "source_keyword": "河南面馆",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B02F38OFL3",
+    "name": "河南面馆(新生路店)",
+    "district": "龙岗",
+    "address": "龙岗街道新生社区新生路252、254号",
+    "phone": "",
+    "longitude": 114.266418,
+    "latitude": 22.741908,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "河南菜"
+    ],
+    "cover": "",
+    "source_keyword": "河南面馆",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0FFGQ6MKT",
+    "name": "河南面馆顺发饭店",
+    "district": "龙岗",
+    "address": "东门路87号",
+    "phone": "",
+    "longitude": 114.155951,
+    "latitude": 22.679706,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "河南菜"
+    ],
+    "cover": "",
+    "source_keyword": "河南面馆",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0FFH82TTX",
+    "name": "河南王记羊汤烩面馆(雪象店)",
+    "district": "龙华",
+    "address": "坂田街道雪象社区中浩二路大道北3-4号一楼",
+    "phone": "",
+    "longitude": 114.077791,
+    "latitude": 22.653668,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "烩面"
+    ],
+    "cover": "",
+    "source_keyword": "河南面馆",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0K0VNFFMD",
+    "name": "河南烩面馆(乐园路店)",
+    "district": "坪山",
+    "address": "乐园路与大坑路交叉口西北100米",
+    "phone": "",
+    "longitude": 114.308304,
+    "latitude": 22.709266,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "烩面"
+    ],
+    "cover": "",
+    "source_keyword": "河南面馆",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0HUCUWGAB",
+    "name": "河南面馆(六联商业街店)",
+    "district": "坪山",
+    "address": "坪地六联永鸿路52号河南面馆",
+    "phone": "",
+    "longitude": 114.327353,
+    "latitude": 22.785688,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "河南菜"
+    ],
+    "cover": "",
+    "source_keyword": "河南面馆",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0HG0L2T31",
+    "name": "河南面馆(围布路店)",
+    "district": "大鹏",
+    "address": "华强路洪发批发市场东侧约100米",
+    "phone": "",
+    "longitude": 114.429756,
+    "latitude": 22.637064,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "河南菜"
+    ],
+    "cover": "",
+    "source_keyword": "河南面馆",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0JB1SCX6S",
+    "name": "河南面馆·郏县饸饹面(鹏达路店)",
+    "district": "龙岗",
+    "address": "鹏达路与春江路交叉口东北20米",
+    "phone": "",
+    "longitude": 114.26473,
+    "latitude": 22.715326,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "河南菜"
+    ],
+    "cover": "",
+    "source_keyword": "河南面馆",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0FFG1YY6V",
+    "name": "河南胖子面馆(清水路店)",
+    "district": "龙岗",
+    "address": "龙西清水路153号",
+    "phone": "",
+    "longitude": 114.248226,
+    "latitude": 22.753679,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "河南菜"
+    ],
+    "cover": "",
+    "source_keyword": "河南面馆",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B02F38OPCY",
+    "name": "河南面馆(同富裕工业区店)",
+    "district": "坪山",
+    "address": "坪地街道同富路5-34号",
+    "phone": "",
+    "longitude": 114.322973,
+    "latitude": 22.771167,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "河南菜"
+    ],
+    "cover": "",
+    "source_keyword": "河南面馆",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0KKUCEMTU",
+    "name": "河南烩面馆(龙湖新村店)",
+    "district": "龙岗",
+    "address": "龙湖新村西门旁",
+    "phone": "",
+    "longitude": 114.288312,
+    "latitude": 22.720153,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "烩面"
+    ],
+    "cover": "",
+    "source_keyword": "河南面馆",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0FFIU2LI3",
+    "name": "河南烩面馆",
+    "district": "坪山",
+    "address": "同心社区新布村惠德福商场对面",
+    "phone": "",
+    "longitude": 114.322722,
+    "latitude": 22.722796,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "烩面"
+    ],
+    "cover": "",
+    "source_keyword": "河南面馆",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0FFGSJYLM",
+    "name": "河南面庄(赤石岗小区西区店)",
+    "district": "龙岗",
+    "address": "同富路9――1号",
+    "phone": "",
+    "longitude": 114.296761,
+    "latitude": 22.725903,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "河南菜"
+    ],
+    "cover": "",
+    "source_keyword": "河南面馆",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0J3JSWXLS",
+    "name": "丁记烩面(梅林店)",
+    "district": "福田",
+    "address": "梅林街道梅林路87号-13",
+    "phone": "",
+    "longitude": 114.058946,
+    "latitude": 22.568244,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "烩面"
+    ],
+    "cover": "",
+    "source_keyword": "烩面",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0L099DMJK",
+    "name": "豫东来炝锅烩面",
+    "district": "福田",
+    "address": "梅华路159号振兴大厦1栋103",
+    "phone": "",
+    "longitude": 114.054417,
+    "latitude": 22.564396,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "烩面"
+    ],
+    "cover": "",
+    "source_keyword": "烩面",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0FFJ6XH38",
+    "name": "三门开封羊汤馆",
+    "district": "罗湖",
+    "address": "园岭街道上林社区八卦三路八卦岭宿舍区36栋八卦三路65号",
+    "phone": "",
+    "longitude": 114.102648,
+    "latitude": 22.561838,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "河南菜"
+    ],
+    "cover": "",
+    "source_keyword": "烩面",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0FFK6BBZ7",
+    "name": "江坤于记烩面(鸿运大楼店)",
+    "district": "福田",
+    "address": "梅林路(上梅林地铁站G口步行170米)",
+    "phone": "",
+    "longitude": 114.057887,
+    "latitude": 22.568211,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "烩面"
+    ],
+    "cover": "",
+    "source_keyword": "烩面",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0FFJ1FFK9",
+    "name": "丁记烩面(岗厦店)",
+    "district": "福田",
+    "address": "岗厦村东三坊126栋105",
+    "phone": "",
+    "longitude": 114.069168,
+    "latitude": 22.537666,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "烩面"
+    ],
+    "cover": "",
+    "source_keyword": "烩面",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0FFF70BA4",
+    "name": "于恒坤滋补烩面(八卦岭宿舍区店)",
+    "district": "罗湖",
+    "address": "八卦三路109号(红岭北地铁站B口步行280米)",
+    "phone": "",
+    "longitude": 114.102095,
+    "latitude": 22.56181,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "烩面"
+    ],
+    "cover": "",
+    "source_keyword": "烩面",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0FFLIAT04",
+    "name": "开封羊汤馆(合正名园店)",
+    "district": "福田",
+    "address": "莲花街道梅岭社区新闻路16号合正明园二期1栋105",
+    "phone": "",
+    "longitude": 114.044393,
+    "latitude": 22.543494,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "河南菜"
+    ],
+    "cover": "",
+    "source_keyword": "烩面",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0L1FX0B8R",
+    "name": "豫东来羊汤烩面(福星店)",
+    "district": "福田",
+    "address": "福田村23号(福星地铁站C口步行280米)",
+    "phone": "",
+    "longitude": 114.082714,
+    "latitude": 22.534769,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "烩面"
+    ],
+    "cover": "",
+    "source_keyword": "烩面",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0FFFOG4IL",
+    "name": "徐记烩面(八卦岭店)",
+    "district": "罗湖",
+    "address": "八卦八街与八卦三路交叉口东南20米",
+    "phone": "",
+    "longitude": 114.101376,
+    "latitude": 22.561773,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "烩面"
+    ],
+    "cover": "",
+    "source_keyword": "烩面",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0LUBXKU74",
+    "name": "丁记烩面(园岭店)",
+    "district": "福田",
+    "address": "园岭新村二期南区南门旁(通新岭地铁站C口步行270米)",
+    "phone": "",
+    "longitude": 114.099378,
+    "latitude": 22.549294,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "烩面"
+    ],
+    "cover": "",
+    "source_keyword": "烩面",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0KKTSRGDX",
+    "name": "卢家逍遥胡辣汤·烩面(华强北店)",
+    "district": "福田",
+    "address": "嘉年华外贸服装城西门旁(华强北地铁站B口步行420米)",
+    "phone": "",
+    "longitude": 114.089406,
+    "latitude": 22.546386,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "烩面",
+      "胡辣汤"
+    ],
+    "cover": "",
+    "source_keyword": "烩面",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B02F38JGTT",
+    "name": "河南烩面馆(北村一路店)",
+    "district": "福田",
+    "address": "新洲北村129-2号",
+    "phone": "",
+    "longitude": 114.047075,
+    "latitude": 22.525675,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "烩面"
+    ],
+    "cover": "",
+    "source_keyword": "烩面",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0J1VH1SQD",
+    "name": "河南手工滋补烩面羊肉汤(阳光城市家园店)",
+    "district": "福田",
+    "address": "福港路28号阳光城市家园(福民地铁站H口步行300米)",
+    "phone": "",
+    "longitude": 114.071012,
+    "latitude": 22.523412,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "烩面",
+      "羊肉汤"
+    ],
+    "cover": "",
+    "source_keyword": "烩面",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0FFJ3LQZH",
+    "name": "坤宝滋补烩面(福田店)",
+    "district": "福田",
+    "address": "凯丰花园南门旁(孖岭地铁站E口步行290米)",
+    "phone": "",
+    "longitude": 114.064962,
+    "latitude": 22.566583,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "烩面"
+    ],
+    "cover": "",
+    "source_keyword": "烩面",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0M6XCRTKE",
+    "name": "豫美河南烩面",
+    "district": "福田",
+    "address": "沙尾步行街与东村二路交叉口东120米",
+    "phone": "",
+    "longitude": 114.042675,
+    "latitude": 22.519225,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "烩面"
+    ],
+    "cover": "",
+    "source_keyword": "烩面",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0KG2KS6U6",
+    "name": "豫东滋补烩面馆",
+    "district": "福田",
+    "address": "沙尾西村142栋101号",
+    "phone": "",
+    "longitude": 114.042002,
+    "latitude": 22.517282,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "烩面"
+    ],
+    "cover": "",
+    "source_keyword": "烩面",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0KGBU5MFH",
+    "name": "豫故乡羊汤烩面(伙头岭路南)",
+    "district": "福田",
+    "address": "塘晏七街与上沙伙头岭路交叉口东南100米",
+    "phone": "",
+    "longitude": 114.033688,
+    "latitude": 22.523218,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "烩面"
+    ],
+    "cover": "",
+    "source_keyword": "烩面",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0L2UGDOK5",
+    "name": "谢记烩面",
+    "district": "福田",
+    "address": "上梅林中康路卓越梅林中心广场1期",
+    "phone": "",
+    "longitude": 114.060275,
+    "latitude": 22.571475,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "烩面"
+    ],
+    "cover": "",
+    "source_keyword": "烩面",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0G2M4TSHQ",
+    "name": "峰记烩面(乐园路店)",
+    "district": "罗湖",
+    "address": "深南东路2010号奥康德大厦1楼",
+    "phone": "",
+    "longitude": 114.128287,
+    "latitude": 22.545338,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "烩面"
+    ],
+    "cover": "",
+    "source_keyword": "烩面",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0KAYU30UP",
+    "name": "任逍遥河南烩面",
+    "district": "罗湖",
+    "address": "南湖街道嘉北社区南华街28号30号",
+    "phone": "",
+    "longitude": 114.117716,
+    "latitude": 22.542589,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "烩面"
+    ],
+    "cover": "",
+    "source_keyword": "烩面",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0HKNZPK32",
+    "name": "河南烩面东门店",
+    "district": "罗湖",
+    "address": "东门街道东门步行街方海商苑c座",
+    "phone": "",
+    "longitude": 114.120443,
+    "latitude": 22.54577,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "烩面"
+    ],
+    "cover": "",
+    "source_keyword": "烩面",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0H06UHT6F",
+    "name": "河南烩面",
+    "district": "罗湖",
+    "address": "清水河街道广清路258号河南烩面",
+    "phone": "",
+    "longitude": 114.113875,
+    "latitude": 22.586075,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "烩面"
+    ],
+    "cover": "",
+    "source_keyword": "烩面",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0L22Z00DJ",
+    "name": "常记胡辣汤烩面",
+    "district": "罗湖",
+    "address": "东门南路3011号东海大厦",
+    "phone": "",
+    "longitude": 114.121625,
+    "latitude": 22.541825,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "烩面",
+      "胡辣汤"
+    ],
+    "cover": "",
+    "source_keyword": "烩面",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0FFG8RNK6",
+    "name": "河南烩面备战包子店",
+    "district": "罗湖",
+    "address": "太白路3038号松泉公寓",
+    "phone": "",
+    "longitude": 114.128187,
+    "latitude": 22.577574,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "烩面"
+    ],
+    "cover": "",
+    "source_keyword": "烩面",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0J2N4AK65",
+    "name": "河南烩面(松园路101号5栋大院店)",
+    "district": "罗湖",
+    "address": "松园路99-1号松园路101号5栋大院",
+    "phone": "",
+    "longitude": 114.106,
+    "latitude": 22.552362,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "烩面"
+    ],
+    "cover": "",
+    "source_keyword": "烩面",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0FFMB7BA5",
+    "name": "羊汤烩面(中英街壹号店)",
+    "district": "盐田",
+    "address": "沙头角街道桥东社区海涛路1号嘉信蓝海华府-17",
+    "phone": "",
+    "longitude": 114.232505,
+    "latitude": 22.546317,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "烩面"
+    ],
+    "cover": "",
+    "source_keyword": "烩面",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B02F37TA7W",
+    "name": "丁记烩面(新安直营店)",
+    "district": "宝安",
+    "address": "上川路天源园首层(上川地铁站J口步行240米)",
+    "phone": "",
+    "longitude": 113.897587,
+    "latitude": 22.576107,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "烩面"
+    ],
+    "cover": "",
+    "source_keyword": "烩面",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0LUFD3FLH",
+    "name": "豫东来羊汤烩面(宝安海雅店)",
+    "district": "宝安",
+    "address": "新圳西路9号-2",
+    "phone": "",
+    "longitude": 113.904348,
+    "latitude": 22.560149,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "烩面"
+    ],
+    "cover": "",
+    "source_keyword": "烩面",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0LRLSMHY3",
+    "name": "豫掌勺饸饹面.烩面(固戍店)",
+    "district": "宝安",
+    "address": "西乡街道宝安大道华丰国际机器人二期E栋108号固戍地铁站C出口向北200米",
+    "phone": "",
+    "longitude": 113.846271,
+    "latitude": 22.603484,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "烩面"
+    ],
+    "cover": "",
+    "source_keyword": "烩面",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0FFLITTLH",
+    "name": "胖子羊汤烩面(德业丰商务大厦店)",
+    "district": "宝安",
+    "address": "怡园路3017号德业丰商务大厦F1层",
+    "phone": "",
+    "longitude": 113.90243,
+    "latitude": 22.577261,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "烩面"
+    ],
+    "cover": "",
+    "source_keyword": "烩面",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0J2FRTAXM",
+    "name": "豫掌勺饸饹面.烩面(宝民店)",
+    "district": "宝安",
+    "address": "宝民二路88号",
+    "phone": "",
+    "longitude": 113.885507,
+    "latitude": 22.578742,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "烩面"
+    ],
+    "cover": "",
+    "source_keyword": "烩面",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0FFK8XJIM",
+    "name": "滋补烩面大锅羊肉汤(劳动二队店)",
+    "district": "宝安",
+    "address": "劳动路28-2号(坪洲地铁站C口步行420米)",
+    "phone": "",
+    "longitude": 113.86679,
+    "latitude": 22.569625,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "烩面",
+      "羊肉汤"
+    ],
+    "cover": "",
+    "source_keyword": "烩面",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0MGX5Y49A",
+    "name": "羊汤烩面胡辣汤",
+    "district": "宝安",
+    "address": "西乡街道龙珠社区龙吟二路7号龙吟二热食类食品制售",
+    "phone": "",
+    "longitude": 113.879921,
+    "latitude": 22.576342,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "烩面",
+      "胡辣汤"
+    ],
+    "cover": "",
+    "source_keyword": "烩面",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0FFKP0BX4",
+    "name": "兰州牛肉拉面",
+    "district": "宝安",
+    "address": "沙浦社区洋涌工业区六路10号",
+    "phone": "",
+    "longitude": 113.829706,
+    "latitude": 22.789354,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "河南菜"
+    ],
+    "cover": "",
+    "source_keyword": "烩面",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0JAHCGY76",
+    "name": "豫掌勺饸饹面.烩面(福海店)",
+    "district": "宝安",
+    "address": "福海街道和平社区桥头同富路20-15号",
+    "phone": "",
+    "longitude": 113.798313,
+    "latitude": 22.687492,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "烩面"
+    ],
+    "cover": "",
+    "source_keyword": "烩面",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0KGTH7297",
+    "name": "丁记烩面(大仟里)",
+    "district": "宝安",
+    "address": "宝安区码头路85号(坪洲地铁站D口步行170米)",
+    "phone": "",
+    "longitude": 113.871893,
+    "latitude": 22.567317,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "烩面"
+    ],
+    "cover": "",
+    "source_keyword": "烩面",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0FFJ1I1PK",
+    "name": "正宗河南羊汤滋补烩面(富园广场店)",
+    "district": "宝安",
+    "address": "福海街道和平社区桥和路和景工业园1栋1楼1号铺",
+    "phone": "",
+    "longitude": 113.784643,
+    "latitude": 22.689031,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "烩面"
+    ],
+    "cover": "",
+    "source_keyword": "烩面",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0LKP10EWU",
+    "name": "河南丁记·牛肉胡辣汤·羊汤烩面(桥头地铁站店)",
+    "district": "宝安",
+    "address": "桥南路13号伟丰大厦(桥头地铁站A口步行50米)",
+    "phone": "",
+    "longitude": 113.811025,
+    "latitude": 22.689375,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "烩面",
+      "胡辣汤"
+    ],
+    "cover": "",
+    "source_keyword": "烩面",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0L11ZKASG",
+    "name": "程家逍遥镇胡辣汤(沙井和一二路店)",
+    "district": "宝安",
+    "address": "沙井街道和一社区和一二路52号",
+    "phone": "",
+    "longitude": 113.788589,
+    "latitude": 22.714822,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "胡辣汤"
+    ],
+    "cover": "",
+    "source_keyword": "烩面",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0GU1RY1W9",
+    "name": "丁记烩面(沙井店)",
+    "district": "宝安",
+    "address": "-宝安区-沙井街道沙头社区西环路2101号102",
+    "phone": "",
+    "longitude": 113.80009,
+    "latitude": 22.727059,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "烩面"
+    ],
+    "cover": "",
+    "source_keyword": "烩面",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0H10OWHTX",
+    "name": "老郑羊汤烩面(沙井店)",
+    "district": "宝安",
+    "address": "沙中路与沙井路交叉口西60米",
+    "phone": "",
+    "longitude": 113.805222,
+    "latitude": 22.722725,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "烩面"
+    ],
+    "cover": "",
+    "source_keyword": "烩面",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0FFH73IAV",
+    "name": "丁记烩面馆(龙岗店)",
+    "district": "龙岗",
+    "address": "鸿基花园六栋(龙翔大道7008号)",
+    "phone": "",
+    "longitude": 114.240882,
+    "latitude": 22.712352,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "烩面"
+    ],
+    "cover": "",
+    "source_keyword": "烩面",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0KADYTLCG",
+    "name": "豫喜园瘸子烩面(深圳平湖店)",
+    "district": "龙岗",
+    "address": "平湖街道水门路108号水门逸欣园1栋B138",
+    "phone": "",
+    "longitude": 114.12521,
+    "latitude": 22.683307,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "烩面"
+    ],
+    "cover": "",
+    "source_keyword": "烩面",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0FFGMAMFR",
+    "name": "老开封羊汤馆(永甘路)",
+    "district": "龙华",
+    "address": "永甘路50号",
+    "phone": "",
+    "longitude": 114.058396,
+    "latitude": 22.620908,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "河南菜"
+    ],
+    "cover": "",
+    "source_keyword": "烩面",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0FFK6CFIW",
+    "name": "河南砂锅烩面(爱联A区店)",
+    "district": "龙岗",
+    "address": "爱联A区西南1门东北100米",
+    "phone": "",
+    "longitude": 114.229197,
+    "latitude": 22.695053,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "烩面"
+    ],
+    "cover": "",
+    "source_keyword": "烩面",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0HKOUKT8W",
+    "name": "河南烩面(吉华路571号店)",
+    "district": "龙华",
+    "address": "吉华路571号",
+    "phone": "",
+    "longitude": 114.068718,
+    "latitude": 22.636347,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "烩面"
+    ],
+    "cover": "",
+    "source_keyword": "烩面",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0K0177UE1",
+    "name": "丁记烩面(深圳东站布吉地铁站兰兹酒店店)",
+    "district": "龙岗",
+    "address": "宝龙花园北1门旁(长龙地铁站C2出口步行470米)",
+    "phone": "",
+    "longitude": 114.1169,
+    "latitude": 22.605273,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "烩面"
+    ],
+    "cover": "",
+    "source_keyword": "烩面",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0JGN9WH43",
+    "name": "豫州春河南手工烩面(横岗店)",
+    "district": "龙岗",
+    "address": "四联路长安大厦107(横岗地铁站D口步行430米)",
+    "phone": "",
+    "longitude": 114.205316,
+    "latitude": 22.646113,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "烩面"
+    ],
+    "cover": "",
+    "source_keyword": "烩面",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0HRJ4MT96",
+    "name": "河南和成烩面(和地·创客大厦店)",
+    "district": "龙岗",
+    "address": "清水路28号和地·创客大厦F1层",
+    "phone": "",
+    "longitude": 114.254687,
+    "latitude": 22.745523,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "烩面"
+    ],
+    "cover": "",
+    "source_keyword": "烩面",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0H06HF0K1",
+    "name": "豫粤品滋补烩面(坂田店)",
+    "district": "龙华",
+    "address": "坂田街道五和社区光雅园光雅巷",
+    "phone": "",
+    "longitude": 114.063981,
+    "latitude": 22.620414,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "烩面"
+    ],
+    "cover": "",
+    "source_keyword": "烩面",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0L6SAWOBJ",
+    "name": "豫丰源烩面",
+    "district": "龙岗",
+    "address": "嶂背路146号",
+    "phone": "",
+    "longitude": 114.25202,
+    "latitude": 22.687953,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "烩面"
+    ],
+    "cover": "",
+    "source_keyword": "烩面",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0HDTRMXXO",
+    "name": "河南烩面",
+    "district": "龙岗",
+    "address": "金源路155号",
+    "phone": "",
+    "longitude": 114.229434,
+    "latitude": 22.677652,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "烩面"
+    ],
+    "cover": "",
+    "source_keyword": "烩面",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0IAUSVOUV",
+    "name": "王记河南烩面水饺(辅岐路店)",
+    "district": "龙岗",
+    "address": "平湖街道辅城坳社区辅歧路204B幢104号商铺",
+    "phone": "",
+    "longitude": 114.114044,
+    "latitude": 22.693233,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "烩面"
+    ],
+    "cover": "",
+    "source_keyword": "烩面",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0HGU9GLR0",
+    "name": "河南水饺烩面店(新围仔店)",
+    "district": "龙华",
+    "address": "孝善路27-1",
+    "phone": "",
+    "longitude": 114.059162,
+    "latitude": 22.660993,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "烩面"
+    ],
+    "cover": "",
+    "source_keyword": "烩面",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0LAJRL1W9",
+    "name": "王忠圈胡辣汤(龙华店)",
+    "district": "龙华",
+    "address": "龙华街道青龙路19-2号",
+    "phone": "",
+    "longitude": 114.035037,
+    "latitude": 22.66688,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "胡辣汤"
+    ],
+    "cover": "",
+    "source_keyword": "烩面",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0FFKPD992",
+    "name": "河南烩面美食城",
+    "district": "龙华",
+    "address": "龙华街道富康社区东富龙36-26号",
+    "phone": "",
+    "longitude": 114.045375,
+    "latitude": 22.658025,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "烩面"
+    ],
+    "cover": "",
+    "source_keyword": "烩面",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0KD7CVG7K",
+    "name": "豫掌勺饸饹面·烩面(大浪店)",
+    "district": "龙华",
+    "address": "大浪街道同胜社区华兴路安宏基星曜广场107-108商铺",
+    "phone": "",
+    "longitude": 113.987536,
+    "latitude": 22.678367,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "烩面"
+    ],
+    "cover": "",
+    "source_keyword": "烩面",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0FFFA2C8Y",
+    "name": "郑州滋补烩面",
+    "district": "龙华",
+    "address": "清湖新村西五巷15-1",
+    "phone": "",
+    "longitude": 114.047429,
+    "latitude": 22.668092,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "烩面"
+    ],
+    "cover": "",
+    "source_keyword": "烩面",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0FFH0Y9XG",
+    "name": "逍遥镇胡辣汤烩面(金侨花园店)",
+    "district": "龙华",
+    "address": "建通路58号",
+    "phone": "",
+    "longitude": 114.027256,
+    "latitude": 22.65369,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "烩面",
+      "胡辣汤"
+    ],
+    "cover": "",
+    "source_keyword": "烩面",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0IGZ50V3B",
+    "name": "卢家逍遥胡辣汤·水煎包·河南烩面(民治店)",
+    "district": "龙华",
+    "address": "民治大道樟坑社区樟坑二区39栋39-2",
+    "phone": "",
+    "longitude": 114.035362,
+    "latitude": 22.615966,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "烩面",
+      "胡辣汤"
+    ],
+    "cover": "",
+    "source_keyword": "烩面",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0FFHMBNB4",
+    "name": "河南烩面·地锅鸡",
+    "district": "龙华",
+    "address": "高峰路与陶元路交叉口东南20米",
+    "phone": "",
+    "longitude": 114.004832,
+    "latitude": 22.650896,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "烩面"
+    ],
+    "cover": "",
+    "source_keyword": "烩面",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0J1YOMHZE",
+    "name": "薛记羊汤烩面(观澜店)",
+    "district": "龙华",
+    "address": "福城街道四合社区观澜大道212号-2",
+    "phone": "",
+    "longitude": 114.046055,
+    "latitude": 22.71168,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "烩面"
+    ],
+    "cover": "",
+    "source_keyword": "烩面",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0IAXZ2GGX",
+    "name": "河南烩面(君子布店)",
+    "district": "龙岗",
+    "address": "观澜君子布君新路13号",
+    "phone": "",
+    "longitude": 114.100166,
+    "latitude": 22.71275,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "烩面"
+    ],
+    "cover": "",
+    "source_keyword": "烩面",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0FFFTEFVW",
+    "name": "邓记羊汤烩面",
+    "district": "光明",
+    "address": "大浪街道华繁路嘉安达工业园商铺7A栋一楼11号",
+    "phone": "",
+    "longitude": 113.990731,
+    "latitude": 22.680941,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "烩面"
+    ],
+    "cover": "",
+    "source_keyword": "烩面",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0H3P53RBO",
+    "name": "谢记羊汤烩面(盛地龙泉花园店)",
+    "district": "龙华",
+    "address": "龙华街道景龙社区龙泉花园建设路128-2",
+    "phone": "",
+    "longitude": 114.027408,
+    "latitude": 22.650675,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "烩面"
+    ],
+    "cover": "",
+    "source_keyword": "烩面",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0FFF4BI6J",
+    "name": "家乡烩面饺子馆(南景新村二区店)",
+    "district": "龙华",
+    "address": "民治街道樟坑社区南景新村B1栋108铺",
+    "phone": "",
+    "longitude": 114.03808,
+    "latitude": 22.617267,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "烩面"
+    ],
+    "cover": "",
+    "source_keyword": "烩面",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0GRNC7O94",
+    "name": "河南正宗羊肉烩面",
+    "district": "龙华",
+    "address": "观澜桂花路62号",
+    "phone": "",
+    "longitude": 114.057377,
+    "latitude": 22.723289,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "烩面"
+    ],
+    "cover": "",
+    "source_keyword": "烩面",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0FFF4APSQ",
+    "name": "河南水饺烩面(团结路店)",
+    "district": "龙华",
+    "address": "民治街道东边老村57栋57栋1号铺",
+    "phone": "",
+    "longitude": 114.03805,
+    "latitude": 22.623879,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "烩面"
+    ],
+    "cover": "",
+    "source_keyword": "烩面",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0FFFHJU31",
+    "name": "河南水饺烩面(三联路店)",
+    "district": "龙华",
+    "address": "龙华街道三联社区锦绣新村一区28号华园道329号",
+    "phone": "",
+    "longitude": 114.025443,
+    "latitude": 22.660153,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "烩面"
+    ],
+    "cover": "",
+    "source_keyword": "烩面",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0FFK64F2H",
+    "name": "河南滋补烩面(隆添利商业步行街店)",
+    "district": "龙华",
+    "address": "塘前西区智造公寓一楼",
+    "phone": "",
+    "longitude": 114.01812,
+    "latitude": 22.741024,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "烩面"
+    ],
+    "cover": "",
+    "source_keyword": "烩面",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0HRHY0E3A",
+    "name": "河南烩面饺子馆(清湖店)",
+    "district": "龙华",
+    "address": "清泉路富泉新区228号",
+    "phone": "",
+    "longitude": 114.03158,
+    "latitude": 22.666873,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "烩面"
+    ],
+    "cover": "",
+    "source_keyword": "烩面",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0FFJXSE6Z",
+    "name": "谚语羊肉饸饹面(椰树花园店)",
+    "district": "福田",
+    "address": "金地社区沙嘴路91号椰树花园",
+    "phone": "",
+    "longitude": 114.038364,
+    "latitude": 22.525162,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "河南菜"
+    ],
+    "cover": "",
+    "source_keyword": "羊肉烩面",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0G0XNWBM0",
+    "name": "张记羊汤粉",
+    "district": "宝安",
+    "address": "应人石新村1巷5栋102",
+    "phone": "",
+    "longitude": 113.927517,
+    "latitude": 22.64395,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "河南菜"
+    ],
+    "cover": "",
+    "source_keyword": "羊肉烩面",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0FFKW82DO",
+    "name": "郑州羊肉烩面",
+    "district": "宝安",
+    "address": "南昌路88号",
+    "phone": "",
+    "longitude": 113.842374,
+    "latitude": 22.600476,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "烩面"
+    ],
+    "cover": "",
+    "source_keyword": "羊肉烩面",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0LBAHEOD1",
+    "name": "豫手工水饺羊肉烩面",
+    "district": "宝安",
+    "address": "宝民社区灶下村一坊八巷3-1号",
+    "phone": "",
+    "longitude": 113.899128,
+    "latitude": 22.566507,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "烩面"
+    ],
+    "cover": "",
+    "source_keyword": "羊肉烩面",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0FFHCGFTF",
+    "name": "老开封羊汤馆(鹤洲新村店)",
+    "district": "宝安",
+    "address": "鹤洲路27号",
+    "phone": "",
+    "longitude": 113.863408,
+    "latitude": 22.628765,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "河南菜"
+    ],
+    "cover": "",
+    "source_keyword": "羊肉烩面",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0FFHQE1FA",
+    "name": "郝记羊肉烩面店",
+    "district": "宝安",
+    "address": "大洋田开发区福安广场B4号商铺(福瑞路72-6号)",
+    "phone": "",
+    "longitude": 113.821121,
+    "latitude": 22.692183,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "烩面"
+    ],
+    "cover": "",
+    "source_keyword": "羊肉烩面",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0GKYXNEYA",
+    "name": "胖子羊汤烩面(商住小区店)",
+    "district": "宝安",
+    "address": "松岗街道天云路30号胖子羊汤烩面",
+    "phone": "",
+    "longitude": 113.838504,
+    "latitude": 22.772654,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "烩面"
+    ],
+    "cover": "",
+    "source_keyword": "羊肉烩面",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0IUPUERPR",
+    "name": "付氏羊汤烩面饸饹面",
+    "district": "宝安",
+    "address": "福海街道新和二区悦盛三路7-4",
+    "phone": "",
+    "longitude": 113.802904,
+    "latitude": 22.668352,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "烩面"
+    ],
+    "cover": "",
+    "source_keyword": "羊肉烩面",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0FFKD4J3P",
+    "name": "北方面馆(坪地教育北路店)",
+    "district": "龙岗",
+    "address": "教育北路与盐龙大道交叉口南80米",
+    "phone": "",
+    "longitude": 114.299697,
+    "latitude": 22.777747,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "河南菜"
+    ],
+    "cover": "",
+    "source_keyword": "羊肉烩面",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0I63HY5C4",
+    "name": "舌尖上的牛肉面(吉华路店)",
+    "district": "龙华",
+    "address": "创业高新科技园北1门东70米",
+    "phone": "",
+    "longitude": 114.081644,
+    "latitude": 22.642067,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "河南菜"
+    ],
+    "cover": "",
+    "source_keyword": "羊肉烩面",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0LKYS46W8",
+    "name": "陈老五羊汤烩面饸烙面(雅宝店)",
+    "district": "龙华",
+    "address": "五和大道5号易达晟大厦(雅宝地铁站C2口步行280米)",
+    "phone": "",
+    "longitude": 114.059917,
+    "latitude": 22.6068,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "烩面"
+    ],
+    "cover": "",
+    "source_keyword": "羊肉烩面",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0JD1AVL56",
+    "name": "爱福来羊肉滋补烩面馆",
+    "district": "龙岗",
+    "address": "刘屋路与瑞基路交叉口西北60米",
+    "phone": "",
+    "longitude": 114.263817,
+    "latitude": 22.711103,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "烩面"
+    ],
+    "cover": "",
+    "source_keyword": "羊肉烩面",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0JD9R3P8X",
+    "name": "田记河南羊肉烩面馆(岗头路店)",
+    "district": "龙华",
+    "address": "坂田街道岗头路21号1-4",
+    "phone": "",
+    "longitude": 114.065594,
+    "latitude": 22.656935,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "烩面"
+    ],
+    "cover": "",
+    "source_keyword": "羊肉烩面",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0FFLJXIDR",
+    "name": "豫香源烩面馆(曾屋村综合楼店)",
+    "district": "大鹏",
+    "address": "曾屋村78曾屋村综合楼",
+    "phone": "",
+    "longitude": 114.42986,
+    "latitude": 22.637822,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "烩面"
+    ],
+    "cover": "",
+    "source_keyword": "羊肉烩面",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0L0MR9YZO",
+    "name": "豫耕鲜汤老烩面",
+    "district": "龙华",
+    "address": "旺塘九巷与旺塘一巷交叉口西120米",
+    "phone": "",
+    "longitude": 114.081575,
+    "latitude": 22.629425,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "烩面"
+    ],
+    "cover": "",
+    "source_keyword": "羊肉烩面",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0FFLES7T3",
+    "name": "河南羊肉烩面(源盛路店)",
+    "district": "龙岗",
+    "address": "龙岗龙东源盛路48号",
+    "phone": "",
+    "longitude": 114.290009,
+    "latitude": 22.717769,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "烩面"
+    ],
+    "cover": "",
+    "source_keyword": "羊肉烩面",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0JG1A9ZMC",
+    "name": "忆味羊汤老烩面(丹竹头店)",
+    "district": "龙岗",
+    "address": "丹平路62号",
+    "phone": "",
+    "longitude": 114.156898,
+    "latitude": 22.629263,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "烩面"
+    ],
+    "cover": "",
+    "source_keyword": "羊肉烩面",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0L0J7GS25",
+    "name": "豫乡缘烩面馆",
+    "district": "龙岗",
+    "address": "坪地坪西吉祥一路46-1",
+    "phone": "",
+    "longitude": 114.286605,
+    "latitude": 22.762898,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "烩面"
+    ],
+    "cover": "",
+    "source_keyword": "羊肉烩面",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0IRMHN7DD",
+    "name": "一品红河南烩面",
+    "district": "龙岗",
+    "address": "上李朗体育运动中心西北门旁",
+    "phone": "",
+    "longitude": 114.120541,
+    "latitude": 22.654516,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "烩面"
+    ],
+    "cover": "",
+    "source_keyword": "羊肉烩面",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0FFM5T4EU",
+    "name": "郑记羊肉汤烩面(建辉路店)",
+    "district": "龙华",
+    "address": "龙华新区高坳新村216栋",
+    "phone": "",
+    "longitude": 114.025982,
+    "latitude": 22.669839,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "烩面",
+      "羊肉汤"
+    ],
+    "cover": "",
+    "source_keyword": "羊肉烩面",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0K29CUHKU",
+    "name": "炒鸡·烩面",
+    "district": "龙华",
+    "address": "花园新村北区西门旁",
+    "phone": "",
+    "longitude": 114.017534,
+    "latitude": 22.661236,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "烩面"
+    ],
+    "cover": "",
+    "source_keyword": "羊肉烩面",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0ID6D2SZM",
+    "name": "河南烩面馆(星源楼店)",
+    "district": "龙华",
+    "address": "新丰工业园7-3号",
+    "phone": "",
+    "longitude": 114.090356,
+    "latitude": 22.704122,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "烩面"
+    ],
+    "cover": "",
+    "source_keyword": "羊肉烩面",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0FFIMNPVF",
+    "name": "河南手工水饺烩面馆(上芬小学路店)",
+    "district": "龙华",
+    "address": "民治街道隔圳新村B6栋河南手工水饺烩面馆",
+    "phone": "",
+    "longitude": 114.019075,
+    "latitude": 22.635575,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "烩面"
+    ],
+    "cover": "",
+    "source_keyword": "羊肉烩面",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0J6G1UIMS",
+    "name": "老街坊河南烩面(联合大厦店)",
+    "district": "龙华",
+    "address": "东环一路110号联合大厦F1层",
+    "phone": "",
+    "longitude": 114.039416,
+    "latitude": 22.645437,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "烩面"
+    ],
+    "cover": "",
+    "source_keyword": "羊肉烩面",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0K0O551SR",
+    "name": "河南三哥羊肉烩面",
+    "district": "龙华",
+    "address": "兴富社区山猪坑三号3-2",
+    "phone": "",
+    "longitude": 114.006835,
+    "latitude": 22.732646,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "烩面"
+    ],
+    "cover": "",
+    "source_keyword": "羊肉烩面",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0HRYLHB0H",
+    "name": "河南羊骨汤烩面(东龙新村店)",
+    "district": "龙华",
+    "address": "东龙新村三区三号",
+    "phone": "",
+    "longitude": 114.023904,
+    "latitude": 22.637193,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "烩面"
+    ],
+    "cover": "",
+    "source_keyword": "羊肉烩面",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0LDGZ9VPX",
+    "name": "福满多手工饺子羊肉烩面",
+    "district": "龙华",
+    "address": "金盈新村南区西门旁",
+    "phone": "",
+    "longitude": 114.000701,
+    "latitude": 22.672051,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "烩面"
+    ],
+    "cover": "",
+    "source_keyword": "羊肉烩面",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0FFJ1036W",
+    "name": "好再来北方羊汤烩面馆",
+    "district": "龙华",
+    "address": "新区西头新村B区29栋(上芬地铁站B口步行220米)",
+    "phone": "",
+    "longitude": 114.017967,
+    "latitude": 22.642376,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "烩面"
+    ],
+    "cover": "",
+    "source_keyword": "羊肉烩面",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0KBC7LKDI",
+    "name": "方中山胡辣汤(深圳福田区店)",
+    "district": "福田",
+    "address": "深南中路3065号",
+    "phone": "",
+    "longitude": 114.068455,
+    "latitude": 22.538938,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "胡辣汤"
+    ],
+    "cover": "",
+    "source_keyword": "胡辣汤",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0G0KZSUXS",
+    "name": "豫蓉颜·牛肉胡辣汤(园岭店)",
+    "district": "罗湖",
+    "address": "园岭街道红荔社区园岭三街21号园岭新村24栋红荔路1062-1",
+    "phone": "",
+    "longitude": 114.100439,
+    "latitude": 22.549327,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "胡辣汤"
+    ],
+    "cover": "",
+    "source_keyword": "胡辣汤",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0H6UGRSQA",
+    "name": "刘洋胡辣汤(景田店)",
+    "district": "福田",
+    "address": "布尾村东南门旁(景田地铁站E口步行300米)",
+    "phone": "",
+    "longitude": 114.04428,
+    "latitude": 22.55574,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "胡辣汤"
+    ],
+    "cover": "",
+    "source_keyword": "胡辣汤",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0KKAAEVM7",
+    "name": "王忠圈胡辣汤华强北店",
+    "district": "福田",
+    "address": "华强北街道福强社区深南中路2032爱华电脑大厦-10号",
+    "phone": "",
+    "longitude": 114.091385,
+    "latitude": 22.540859,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "胡辣汤"
+    ],
+    "cover": "",
+    "source_keyword": "胡辣汤",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0H3PA2OVC",
+    "name": "豫蓉颜.牛肉胡辣汤(中心书城店)",
+    "district": "福田",
+    "address": "少年宫地铁站E出口",
+    "phone": "",
+    "longitude": 114.05922,
+    "latitude": 22.548161,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "胡辣汤"
+    ],
+    "cover": "",
+    "source_keyword": "胡辣汤",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0FFI7R79B",
+    "name": "崔记水煎包胡辣汤(梅林店)",
+    "district": "福田",
+    "address": "下梅林一街尚书苑3栋裙楼31号",
+    "phone": "",
+    "longitude": 114.037312,
+    "latitude": 22.562342,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "胡辣汤"
+    ],
+    "cover": "",
+    "source_keyword": "胡辣汤",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0JA2ZIH0B",
+    "name": "逍遥镇牛肉胡辣汤(河背村店)",
+    "district": "福田",
+    "address": "河背村正门东190米(下梅林地铁站B1口步行150米)",
+    "phone": "",
+    "longitude": 114.042791,
+    "latitude": 22.564724,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "胡辣汤"
+    ],
+    "cover": "",
+    "source_keyword": "胡辣汤",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0I1L6B2OR",
+    "name": "河南杨记胡辣汤",
+    "district": "福田",
+    "address": "沙尾村(沙尾地铁站A口步行230米)",
+    "phone": "",
+    "longitude": 114.041303,
+    "latitude": 22.519765,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "胡辣汤"
+    ],
+    "cover": "",
+    "source_keyword": "胡辣汤",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0MGFK1XC4",
+    "name": "高先生胡辣汤(巴登街店)",
+    "district": "罗湖",
+    "address": "东园路35号台湾花园(红岭南地铁站E口步行340米)",
+    "phone": "",
+    "longitude": 114.103195,
+    "latitude": 22.537355,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "胡辣汤"
+    ],
+    "cover": "",
+    "source_keyword": "胡辣汤",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0G391SL87",
+    "name": "老丁记逍遥胡辣汤",
+    "district": "福田",
+    "address": "上沙塘晏村三巷20-3103号",
+    "phone": "",
+    "longitude": 114.03312,
+    "latitude": 22.521946,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "胡辣汤"
+    ],
+    "cover": "",
+    "source_keyword": "胡辣汤",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0FFKSY11I",
+    "name": "丁记河南胡辣汤水煎包",
+    "district": "罗湖",
+    "address": "东门街道东门中路东升街68号",
+    "phone": "",
+    "longitude": 114.126629,
+    "latitude": 22.552099,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "胡辣汤"
+    ],
+    "cover": "",
+    "source_keyword": "胡辣汤",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0HU2SUBQG",
+    "name": "大掌柜凉皮肉夹馍(罗湖店)",
+    "district": "罗湖",
+    "address": "桂圆街道红村社区广场北街2号三单元103",
+    "phone": "",
+    "longitude": 114.110435,
+    "latitude": 22.544394,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "河南菜"
+    ],
+    "cover": "",
+    "source_keyword": "胡辣汤",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0H121B7LZ",
+    "name": "豫逍遥牛肉胡辣汤(富宝楼店)",
+    "district": "罗湖",
+    "address": "宝安北路2066号富宝楼F1层",
+    "phone": "",
+    "longitude": 114.109264,
+    "latitude": 22.560962,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "胡辣汤"
+    ],
+    "cover": "",
+    "source_keyword": "胡辣汤",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0H3X53PE8",
+    "name": "八百里正宗河南洛阳牛肉汤",
+    "district": "罗湖",
+    "address": "宝安南路2029号",
+    "phone": "",
+    "longitude": 114.110513,
+    "latitude": 22.544789,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "河南菜"
+    ],
+    "cover": "",
+    "source_keyword": "胡辣汤",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0M6N7EY85",
+    "name": "崔记水煎包胡辣汤(罗湖解放路店)",
+    "district": "罗湖",
+    "address": "解放路与红围街交叉口东北40米",
+    "phone": "",
+    "longitude": 114.112675,
+    "latitude": 22.544331,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "胡辣汤"
+    ],
+    "cover": "",
+    "source_keyword": "胡辣汤",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0FFJF0CPI",
+    "name": "大掌柜凉皮肉夹馍(黄贝岭店)",
+    "district": "罗湖",
+    "address": "黄贝街道黄贝岭华桥新村旁边54栋大掌柜门店",
+    "phone": "",
+    "longitude": 114.135519,
+    "latitude": 22.547483,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "河南菜"
+    ],
+    "cover": "",
+    "source_keyword": "胡辣汤",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0GRNLBETM",
+    "name": "潮汕大家知砂锅粥(莲塘D小区店)",
+    "district": "罗湖",
+    "address": "国威路152号莲塘D小区2栋",
+    "phone": "",
+    "longitude": 114.170325,
+    "latitude": 22.56452,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "河南菜"
+    ],
+    "cover": "",
+    "source_keyword": "胡辣汤",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0IAJYSYIR",
+    "name": "正宗逍遥镇牛肉胡辣汤(盐田分店)",
+    "district": "盐田",
+    "address": "洪安二街6号佳兆业·西山吓庭苑",
+    "phone": "",
+    "longitude": 114.259589,
+    "latitude": 22.586189,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "胡辣汤"
+    ],
+    "cover": "",
+    "source_keyword": "胡辣汤",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0KG1S42CP",
+    "name": "水煎包胡辣汤(瑞林苑小区店)",
+    "district": "盐田",
+    "address": "海山路46号翠景花园(海山地铁站C口步行360米)",
+    "phone": "",
+    "longitude": 114.237134,
+    "latitude": 22.558772,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "胡辣汤"
+    ],
+    "cover": "",
+    "source_keyword": "胡辣汤",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0KRNGHLBK",
+    "name": "高先生胡辣汤",
+    "district": "宝安",
+    "address": "塘坊花园西南1门旁(上川地铁站B1口步行50米)",
+    "phone": "",
+    "longitude": 113.896779,
+    "latitude": 22.576607,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "胡辣汤"
+    ],
+    "cover": "",
+    "source_keyword": "胡辣汤",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0HU2BT5OX",
+    "name": "河南北舞渡胡辣汤(滨城新村安乐花园店)",
+    "district": "宝安",
+    "address": "新安街道上川社区35区安乐花园1栋103-2",
+    "phone": "",
+    "longitude": 113.898545,
+    "latitude": 22.580636,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "胡辣汤"
+    ],
+    "cover": "",
+    "source_keyword": "胡辣汤",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0LB1A3FL9",
+    "name": "王忠圈胡辣汤(宝安店)",
+    "district": "宝安",
+    "address": "西乡街道渔业社区名优采购中心B座3区118",
+    "phone": "",
+    "longitude": 113.866151,
+    "latitude": 22.568605,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "胡辣汤"
+    ],
+    "cover": "",
+    "source_keyword": "胡辣汤",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0JAO5Z6KM",
+    "name": "河南丁记胡辣汤(翻身店)",
+    "district": "宝安",
+    "address": "安乐三街与兴华一路交叉口西北80米",
+    "phone": "",
+    "longitude": 113.898194,
+    "latitude": 22.559455,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "胡辣汤"
+    ],
+    "cover": "",
+    "source_keyword": "胡辣汤",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0K03U5B38",
+    "name": "广豫福胡辣汤(桃源居店)",
+    "district": "宝安",
+    "address": "前进二路208号(钟屋南地铁站E1口步行220米)",
+    "phone": "",
+    "longitude": 113.860818,
+    "latitude": 22.616378,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "胡辣汤"
+    ],
+    "cover": "",
+    "source_keyword": "胡辣汤",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0H6YY90Y2",
+    "name": "丁记优质胡辣汤",
+    "district": "宝安",
+    "address": "福围中路57号",
+    "phone": "",
+    "longitude": 113.822784,
+    "latitude": 22.652837,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "胡辣汤"
+    ],
+    "cover": "",
+    "source_keyword": "胡辣汤",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0FFIIQD9A",
+    "name": "大掌柜凉皮肉夹馍(灶下村三坊店)",
+    "district": "宝安",
+    "address": "新安街道宝民社区宝民一路灶下村三坊1栋宝民一路144-2",
+    "phone": "",
+    "longitude": 113.897098,
+    "latitude": 22.566914,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "河南菜"
+    ],
+    "cover": "",
+    "source_keyword": "胡辣汤",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0MG5S12LN",
+    "name": "河南牛肉胡辣汤手工大包子(罗中路店)",
+    "district": "光明",
+    "address": "燕罗街道罗田社区罗中路北区290号罗中路154号",
+    "phone": "",
+    "longitude": 113.871375,
+    "latitude": 22.798425,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "胡辣汤"
+    ],
+    "cover": "",
+    "source_keyword": "胡辣汤",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0L0UDVA9K",
+    "name": "正宗逍遥胡辣汤",
+    "district": "宝安",
+    "address": "育才路与桥达路交叉口西北80米",
+    "phone": "",
+    "longitude": 113.809744,
+    "latitude": 22.690167,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "胡辣汤"
+    ],
+    "cover": "",
+    "source_keyword": "胡辣汤",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0ID61831G",
+    "name": "河南崔记水煎包胡辣汤(三围店)",
+    "district": "宝安",
+    "address": "航城街道三围社区三围南路裕兴百货楼下107",
+    "phone": "",
+    "longitude": 113.846611,
+    "latitude": 22.612492,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "胡辣汤"
+    ],
+    "cover": "",
+    "source_keyword": "胡辣汤",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0IDUK9FM0",
+    "name": "乐逍遥胡辣汤(潭头商住楼店)",
+    "district": "宝安",
+    "address": "潭头商住楼",
+    "phone": "",
+    "longitude": 113.846863,
+    "latitude": 22.747172,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "胡辣汤"
+    ],
+    "cover": "",
+    "source_keyword": "胡辣汤",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0FFKSBNJT",
+    "name": "大掌柜凉皮肉夹馍(坪洲店)",
+    "district": "宝安",
+    "address": "轻铁西花园14巷4号(坪洲地铁站C口步行410米)",
+    "phone": "",
+    "longitude": 113.867375,
+    "latitude": 22.569425,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "河南菜"
+    ],
+    "cover": "",
+    "source_keyword": "胡辣汤",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0L2J96QFE",
+    "name": "杨二伟胡辣汤-牛肉面(中洲华府店)",
+    "district": "宝安",
+    "address": "中洲华府二期11栋115商铺",
+    "phone": "",
+    "longitude": 113.906087,
+    "latitude": 22.573386,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "胡辣汤"
+    ],
+    "cover": "",
+    "source_keyword": "胡辣汤",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0FFG39BCB",
+    "name": "河南油条(沙井路店)",
+    "district": "宝安",
+    "address": "沙井大王山昌宏百货大门正对面104-2",
+    "phone": "",
+    "longitude": 113.80566,
+    "latitude": 22.712395,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "河南菜"
+    ],
+    "cover": "",
+    "source_keyword": "胡辣汤",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0JD6C3A7J",
+    "name": "豫三代烩面胡辣汤包子八宝粥(甲岸村店)",
+    "district": "宝安",
+    "address": "新安街道甲岸村79-80栋一楼",
+    "phone": "",
+    "longitude": 113.905471,
+    "latitude": 22.561468,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "烩面",
+      "胡辣汤"
+    ],
+    "cover": "",
+    "source_keyword": "胡辣汤",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0G31R90EX",
+    "name": "河南胡辣汤(钟屋新区中二区二巷店)",
+    "district": "宝安",
+    "address": "航城街道钟屋社区钟屋新区中三区一巷1号",
+    "phone": "",
+    "longitude": 113.841287,
+    "latitude": 22.622165,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "胡辣汤"
+    ],
+    "cover": "",
+    "source_keyword": "胡辣汤",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0HR0GR6Y0",
+    "name": "亮记土家香酱饼胡辣汤店",
+    "district": "宝安",
+    "address": "和二二路85-8",
+    "phone": "",
+    "longitude": 113.783551,
+    "latitude": 22.710948,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "胡辣汤"
+    ],
+    "cover": "",
+    "source_keyword": "胡辣汤",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0FFIC66DC",
+    "name": "大掌柜凉皮肉夹馍(福永店)",
+    "district": "宝安",
+    "address": "福永街道白石厦社区永安坊西四巷2号104铺",
+    "phone": "",
+    "longitude": 113.825258,
+    "latitude": 22.675552,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "河南菜"
+    ],
+    "cover": "",
+    "source_keyword": "胡辣汤",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0JGM55TU9",
+    "name": "河南丁记胡辣汤(铁岗分店)",
+    "district": "宝安",
+    "address": "铁岗社区铁岗西路16号B栋104",
+    "phone": "",
+    "longitude": 113.88627,
+    "latitude": 22.60182,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "胡辣汤"
+    ],
+    "cover": "",
+    "source_keyword": "胡辣汤",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0G33UYDIF",
+    "name": "正宗河南胡辣汤羊肉汤",
+    "district": "宝安",
+    "address": "石岩街道洲石路42号河南胡辣汤面馆",
+    "phone": "",
+    "longitude": 113.919733,
+    "latitude": 22.672488,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "羊肉汤",
+      "胡辣汤"
+    ],
+    "cover": "",
+    "source_keyword": "胡辣汤",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0FFGWGXZL",
+    "name": "耿记正宗逍遥胡辣汤(滨城新村安乐花园店)",
+    "district": "宝安",
+    "address": "滨城新村安乐花园西南门东70米",
+    "phone": "",
+    "longitude": 113.898534,
+    "latitude": 22.580662,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "胡辣汤"
+    ],
+    "cover": "",
+    "source_keyword": "胡辣汤",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0LRFU7EPH",
+    "name": "遇小二•胡辣汤 中原名吃(星河双子塔店)",
+    "district": "龙华",
+    "address": "坂田街道星河world三期F栋遇小二胡辣汤",
+    "phone": "",
+    "longitude": 114.061329,
+    "latitude": 22.602217,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "胡辣汤"
+    ],
+    "cover": "",
+    "source_keyword": "胡辣汤",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0FFKU65F7",
+    "name": "逍遥佟老八胡辣汤(银翠路店)",
+    "district": "龙岗",
+    "address": "怡丰路32号(龙城广场地铁站B口步行380米)",
+    "phone": "",
+    "longitude": 114.257502,
+    "latitude": 22.716093,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "胡辣汤"
+    ],
+    "cover": "",
+    "source_keyword": "胡辣汤",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0HKVC9U84",
+    "name": "剪花娘子(深圳龙岗万达餐厅)",
+    "district": "龙岗",
+    "address": "平湖街道禾花社区华南二道1号深圳龙岗万达广场B1层B1028",
+    "phone": "",
+    "longitude": 114.130703,
+    "latitude": 22.673742,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "河南菜"
+    ],
+    "cover": "",
+    "source_keyword": "胡辣汤",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0L6P7AJ10",
+    "name": "王忠圈胡辣汤(布吉店)",
+    "district": "龙岗",
+    "address": "布吉街道吉华路247号104王忠圈胡辣汤",
+    "phone": "",
+    "longitude": 114.110729,
+    "latitude": 22.613894,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "胡辣汤"
+    ],
+    "cover": "",
+    "source_keyword": "胡辣汤",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0FFLJ1UAN",
+    "name": "河南胡辣汤·水煎包(六约店)",
+    "district": "龙岗",
+    "address": "横岗街道六约社区宸和路36-3号D栋副楼110",
+    "phone": "",
+    "longitude": 114.191542,
+    "latitude": 22.63497,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "胡辣汤"
+    ],
+    "cover": "",
+    "source_keyword": "胡辣汤",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0H0VSYA2X",
+    "name": "状元胡辣汤",
+    "district": "龙华",
+    "address": "坂田街道办雪象花园新村道北三巷17-3",
+    "phone": "",
+    "longitude": 114.075293,
+    "latitude": 22.650324,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "胡辣汤"
+    ],
+    "cover": "",
+    "source_keyword": "胡辣汤",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0L3MUKPRV",
+    "name": "逍遥佟老八胡辣汤",
+    "district": "罗湖",
+    "address": "罗岗路74-1号",
+    "phone": "",
+    "longitude": 114.12661,
+    "latitude": 22.595552,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "胡辣汤"
+    ],
+    "cover": "",
+    "source_keyword": "胡辣汤",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0GDCA7F15",
+    "name": "河南胡辣汤(四联店)",
+    "district": "龙岗",
+    "address": "横岗街道四联路258号101",
+    "phone": "",
+    "longitude": 114.195256,
+    "latitude": 22.651733,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "胡辣汤"
+    ],
+    "cover": "",
+    "source_keyword": "胡辣汤",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0IUXUIV1G",
+    "name": "光头老崔河南胡辣汤(嶂背店)",
+    "district": "龙岗",
+    "address": "嶂背路216号嶂背二村市场",
+    "phone": "",
+    "longitude": 114.248801,
+    "latitude": 22.686184,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "胡辣汤"
+    ],
+    "cover": "",
+    "source_keyword": "胡辣汤",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0KDGMIAAO",
+    "name": "逍遥胡辣汤(颐安·都会中央店)",
+    "district": "龙岗",
+    "address": "园山街道荷坳社区红棉路211号颐安·都会中央3期",
+    "phone": "",
+    "longitude": 114.222225,
+    "latitude": 22.683825,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "胡辣汤"
+    ],
+    "cover": "",
+    "source_keyword": "胡辣汤",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0I1V5YOBE",
+    "name": "大掌柜凉皮肉夹馍(横岗店)",
+    "district": "龙岗",
+    "address": "大塘七巷3号",
+    "phone": "",
+    "longitude": 114.20441,
+    "latitude": 22.648951,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "河南菜"
+    ],
+    "cover": "",
+    "source_keyword": "胡辣汤",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0IUV7MSN8",
+    "name": "崔记胡辣汤水煎包",
+    "district": "龙华",
+    "address": "坂田街道五和社区光雅园路22-2号",
+    "phone": "",
+    "longitude": 114.064151,
+    "latitude": 22.619015,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "胡辣汤"
+    ],
+    "cover": "",
+    "source_keyword": "胡辣汤",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0HAAH5F8T",
+    "name": "逍遥冯家胡辣汤餐饮店(坪地店)",
+    "district": "坪山",
+    "address": "坪地街道怡心社区兴华路51号融富花园二期2号楼51-8号",
+    "phone": "",
+    "longitude": 114.302491,
+    "latitude": 22.77082,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "胡辣汤"
+    ],
+    "cover": "",
+    "source_keyword": "胡辣汤",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0FFLEEBSK",
+    "name": "逍遥镇胡辣汤(深圳远东龙岗妇产医院店)",
+    "district": "龙华",
+    "address": "天安路26号-2",
+    "phone": "",
+    "longitude": 114.071095,
+    "latitude": 22.639243,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "胡辣汤"
+    ],
+    "cover": "",
+    "source_keyword": "胡辣汤",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0LA4R5Z8X",
+    "name": "包美味大骨胡辣汤(平湖店)",
+    "district": "龙岗",
+    "address": "平湖街道凤凰社区横岭路62号-01",
+    "phone": "",
+    "longitude": 114.137838,
+    "latitude": 22.697059,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "胡辣汤"
+    ],
+    "cover": "",
+    "source_keyword": "胡辣汤",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0FFI6QQSA",
+    "name": "河南金丝大饼胡辣汤",
+    "district": "龙岗",
+    "address": "龙湖路44号",
+    "phone": "",
+    "longitude": 114.291631,
+    "latitude": 22.718096,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "胡辣汤"
+    ],
+    "cover": "",
+    "source_keyword": "胡辣汤",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0L1356P9B",
+    "name": "包笼侠·杭州小笼包·撒汤·粥(龙岗平湖店)",
+    "district": "龙岗",
+    "address": "平湖街道禾花社区水门路122号水门路122-2",
+    "phone": "",
+    "longitude": 114.124466,
+    "latitude": 22.685611,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "河南菜"
+    ],
+    "cover": "",
+    "source_keyword": "胡辣汤",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0K3CZ4E75",
+    "name": "万记胡辣汤",
+    "district": "龙岗",
+    "address": "新丰路129-3号",
+    "phone": "",
+    "longitude": 114.224155,
+    "latitude": 22.700929,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "胡辣汤"
+    ],
+    "cover": "",
+    "source_keyword": "胡辣汤",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0LDJRY4L9",
+    "name": "逍遥镇胡辣汤",
+    "district": "龙岗",
+    "address": "金坑北路1号宝岭花园南区",
+    "phone": "",
+    "longitude": 114.146778,
+    "latitude": 22.61713,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "胡辣汤"
+    ],
+    "cover": "",
+    "source_keyword": "胡辣汤",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0KRFYOGAN",
+    "name": "方中山胡辣汤(深圳北站店)",
+    "district": "龙华",
+    "address": "民治大道333号东浩艺术中心1A(深圳第二儿童医院对面)",
+    "phone": "",
+    "longitude": 114.041647,
+    "latitude": 22.615076,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "胡辣汤"
+    ],
+    "cover": "",
+    "source_keyword": "胡辣汤",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0KR4CWVAG",
+    "name": "杨二辉胡辣汤店",
+    "district": "龙华",
+    "address": "龙华街道景龙社区龙华和平路225-227号",
+    "phone": "",
+    "longitude": 114.026209,
+    "latitude": 22.654168,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "胡辣汤"
+    ],
+    "cover": "",
+    "source_keyword": "胡辣汤",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0IU7SHQSW",
+    "name": "逍遥镇胡辣汤(龙胜路店)",
+    "district": "龙华",
+    "address": "民治街道上芬社区西头新村1-6号龙峰二路241号",
+    "phone": "",
+    "longitude": 114.019128,
+    "latitude": 22.642068,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "胡辣汤"
+    ],
+    "cover": "",
+    "source_keyword": "胡辣汤",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0LG4C6PQA",
+    "name": "逍遥镇牛肉胡辣汤",
+    "district": "龙华",
+    "address": "沿河东路59号",
+    "phone": "",
+    "longitude": 114.061603,
+    "latitude": 22.724424,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "胡辣汤"
+    ],
+    "cover": "",
+    "source_keyword": "胡辣汤",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0FFHLMAQI",
+    "name": "水煎包胡辣汤(共和花园店)",
+    "district": "龙华",
+    "address": "东环一路130号共和花园",
+    "phone": "",
+    "longitude": 114.03629,
+    "latitude": 22.648319,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "胡辣汤"
+    ],
+    "cover": "",
+    "source_keyword": "胡辣汤",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0KA7D27A5",
+    "name": "河南水煎包胡辣汤(塘水围店)",
+    "district": "龙华",
+    "address": "塘水围一区西南门旁",
+    "phone": "",
+    "longitude": 114.037613,
+    "latitude": 22.622378,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "胡辣汤"
+    ],
+    "cover": "",
+    "source_keyword": "胡辣汤",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0G1NR56PY",
+    "name": "崔记水煎包胡辣汤",
+    "district": "龙华",
+    "address": "骏龙新村",
+    "phone": "",
+    "longitude": 114.046746,
+    "latitude": 22.64052,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "胡辣汤"
+    ],
+    "cover": "",
+    "source_keyword": "胡辣汤",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0KKMHCXND",
+    "name": "胖大嫂河南胡辣汤·水煎包(龙华店)",
+    "district": "龙华",
+    "address": "三联七路与三联一路交叉口东140米",
+    "phone": "",
+    "longitude": 114.026427,
+    "latitude": 22.662936,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "胡辣汤"
+    ],
+    "cover": "",
+    "source_keyword": "胡辣汤",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0FFL80ISU",
+    "name": "正宗逍遥镇牛肉胡辣汤(景田路店)",
+    "district": "龙华",
+    "address": "君子嘉园西南门旁",
+    "phone": "",
+    "longitude": 114.08664,
+    "latitude": 22.697296,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "胡辣汤"
+    ],
+    "cover": "",
+    "source_keyword": "胡辣汤",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0L3XA0XGN",
+    "name": "领益苏记牛肉胡辣汤",
+    "district": "龙华",
+    "address": "岭南路6号",
+    "phone": "",
+    "longitude": 114.048075,
+    "latitude": 22.609725,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "胡辣汤"
+    ],
+    "cover": "",
+    "source_keyword": "胡辣汤",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0L3OCY1F3",
+    "name": "水煎包胡辣汤(三联店)",
+    "district": "龙华",
+    "address": "三联老围小区东南门西北130米",
+    "phone": "",
+    "longitude": 114.018743,
+    "latitude": 22.667905,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "胡辣汤"
+    ],
+    "cover": "",
+    "source_keyword": "胡辣汤",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0FFH0XE8X",
+    "name": "北方早餐胡辣汤水煎包豆腐脑卷膜小米粥",
+    "district": "龙华",
+    "address": "大浪街道陶元社区石观工业区9号102",
+    "phone": "",
+    "longitude": 113.997416,
+    "latitude": 22.66349,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "胡辣汤"
+    ],
+    "cover": "",
+    "source_keyword": "胡辣汤",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0ID6C2YUM",
+    "name": "逍遥镇胡辣汤(塘前新村围合式小区店)",
+    "district": "龙华",
+    "address": "福城街道章阁社区樟吉路3-2号",
+    "phone": "",
+    "longitude": 114.019995,
+    "latitude": 22.74141,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "胡辣汤"
+    ],
+    "cover": "",
+    "source_keyword": "胡辣汤",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0J357Q4QQ",
+    "name": "河南烧饼水煎包胡辣汤",
+    "district": "龙华",
+    "address": "清湖东一巷附近100m",
+    "phone": "",
+    "longitude": 114.048545,
+    "latitude": 22.666918,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "胡辣汤"
+    ],
+    "cover": "",
+    "source_keyword": "胡辣汤",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0MGL5N44K",
+    "name": "俏北方沁汁包·胡辣汤(清湖店)",
+    "district": "龙华",
+    "address": "清龙路龙华富联-二区217-2",
+    "phone": "",
+    "longitude": 114.035009,
+    "latitude": 22.667973,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "胡辣汤"
+    ],
+    "cover": "",
+    "source_keyword": "胡辣汤",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0I2GSB0P3",
+    "name": "水煎包胡辣汤(共和花园店)",
+    "district": "龙华",
+    "address": "东环一路与鸿光路交叉口东北40米",
+    "phone": "",
+    "longitude": 114.035788,
+    "latitude": 22.647192,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "胡辣汤"
+    ],
+    "cover": "",
+    "source_keyword": "胡辣汤",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0LUUAO9IF",
+    "name": "逍遥镇富强胡辣汤(水斗老围店)",
+    "district": "龙华",
+    "address": "尚游公馆西南1门东南240米",
+    "phone": "",
+    "longitude": 114.047266,
+    "latitude": 22.636249,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "胡辣汤"
+    ],
+    "cover": "",
+    "source_keyword": "胡辣汤",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0KKKSTL5J",
+    "name": "全记水煎包胡辣汤",
+    "district": "龙华",
+    "address": "云峰路与佳德路交叉口北20米",
+    "phone": "",
+    "longitude": 114.002679,
+    "latitude": 22.658067,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "胡辣汤"
+    ],
+    "cover": "",
+    "source_keyword": "胡辣汤",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0IKT7LZZD",
+    "name": "逍遥镇胡辣汤(观水南街店)",
+    "district": "龙华",
+    "address": "观水南街与观光路交叉口南120米",
+    "phone": "",
+    "longitude": 114.006465,
+    "latitude": 22.730713,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "胡辣汤"
+    ],
+    "cover": "",
+    "source_keyword": "胡辣汤",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0KDN7SF5J",
+    "name": "杨东风逍遥胡辣汤(奋进路店)",
+    "district": "龙华",
+    "address": "航天科工苑西北门旁",
+    "phone": "",
+    "longitude": 114.048909,
+    "latitude": 22.64503,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "胡辣汤"
+    ],
+    "cover": "",
+    "source_keyword": "胡辣汤",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0LG65D977",
+    "name": "正宗逍遥镇牛肉胡辣汤",
+    "district": "龙华",
+    "address": "观湖街道新田社区公坑廊工业区4栋102号",
+    "phone": "",
+    "longitude": 114.090044,
+    "latitude": 22.707172,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "胡辣汤"
+    ],
+    "cover": "",
+    "source_keyword": "胡辣汤",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0LKG72EYG",
+    "name": "信阳土菜馆",
+    "district": "宝安",
+    "address": "石岩街道浪心社区河南路149号河南路153号-1",
+    "phone": "",
+    "longitude": 113.937525,
+    "latitude": 22.677025,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "河南菜"
+    ],
+    "cover": "",
+    "source_keyword": "信阳菜",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0LKYU4IJC",
+    "name": "豫粤轩·信阳菜·粤菜海鲜",
+    "district": "龙华",
+    "address": "花半里15栋2楼整层(农村商业银行2层)",
+    "phone": "",
+    "longitude": 114.047873,
+    "latitude": 22.67227,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "河南菜"
+    ],
+    "cover": "",
+    "source_keyword": "信阳菜",
+    "update_time": "2026-06-24"
+  },
+  {
+    "id": "B0KUHRJEZZ",
+    "name": "信阳农家炖菜",
+    "district": "龙华",
+    "address": "高坳新村北区南门北350米",
+    "phone": "",
+    "longitude": 114.026175,
+    "latitude": 22.673122,
+    "rating": null,
+    "cost": null,
+    "tags": [
+      "河南菜"
+    ],
+    "cover": "",
+    "source_keyword": "信阳菜",
+    "update_time": "2026-06-24"
+  }
+]

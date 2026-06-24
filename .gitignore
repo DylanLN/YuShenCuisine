@@ -2,5 +2,14 @@ node_modules/
 dist/
 .DS_Store
 *.local
+*.pyc
+__pycache__/
 crawler/output/restaurants.json
+crawler/__pycache__/
+crawler/config.local.py
 .superpowers/
+web/data/
+web/node_modules/.vite/
+.env
+crawler/.env
+web/.env
